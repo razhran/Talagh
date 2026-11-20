@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "w001",
+    "word": "Mitigate",
+    "arabic": "يخفّف من أثر",
+    "definition": "Make a harmful situation less severe.",
+    "example": "The team introduced safeguards to mitigate operational risks.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w002",
+    "word": "Substantiate",
+    "arabic": "يدعم بالدليل",
+    "definition": "Support a claim with evidence.",
+    "example": "The report must substantiate its conclusions with data.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w003",
+    "word": "Scrutinize",
+    "arabic": "يفحص بدقة",
+    "definition": "Examine something very closely.",
+    "example": "Engineers scrutinized the inspection records before approval.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w004",
+    "word": "Feasible",
+    "arabic": "قابل للتنفيذ",
+    "definition": "Practical and possible to achieve.",
+    "example": "The proposed schedule is feasible within the current budget.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w005",
+    "word": "Preliminary",
+    "arabic": "أولي",
+    "definition": "Happening before a more complete stage.",
+    "example": "The preliminary results suggest a significant improvement.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w006",
+    "word": "Ambiguous",
+    "arabic": "ملتبس أو غير واضح",
+    "definition": "Open to more than one interpretation.",
+    "example": "The ambiguous instruction caused confusion among technicians.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w007",
+    "word": "Comprehensive",
+    "arabic": "شامل",
+    "definition": "Including all or nearly all relevant aspects.",
+    "example": "We need a comprehensive assessment of the problem.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w008",
+    "word": "Subsequent",
+    "arabic": "لاحق",
+    "definition": "Coming after something else.",
+    "example": "Subsequent tests confirmed the initial findings.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w009",
+    "word": "Constrain",
+    "arabic": "يقيّد",
+    "definition": "Limit the range or extent of something.",
+    "example": "Limited resources constrain the project's scope.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w010",
+    "word": "Allocate",
+    "arabic": "يخصّص",
+    "definition": "Assign resources for a specific purpose.",
+    "example": "Allocate sufficient time for the final inspection.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w011",
+    "word": "Deviate",
+    "arabic": "ينحرف عن",
+    "definition": "Depart from an expected course or standard.",
+    "example": "Do not deviate from the approved procedure.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w012",
+    "word": "Deteriorate",
+    "arabic": "يتدهور",
+    "definition": "Become progressively worse.",
+    "example": "The material may deteriorate under prolonged exposure.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w013",
+    "word": "Enhance",
+    "arabic": "يعزّز",
+    "definition": "Improve the quality or effectiveness of something.",
+    "example": "The redesign could enhance overall performance.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w014",
+    "word": "Obsolete",
+    "arabic": "متقادم",
+    "definition": "No longer useful because something newer exists.",
+    "example": "The obsolete software was replaced last year.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w015",
+    "word": "Resilient",
+    "arabic": "قادر على التكيّف والتعافي",
+    "definition": "Able to recover quickly from difficulties.",
+    "example": "A resilient process can withstand unexpected disruptions.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w016",
+    "word": "Viable",
+    "arabic": "مجدٍ وقابل للاستمرار",
+    "definition": "Capable of working successfully over time.",
+    "example": "The alternative remains financially viable.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w017",
+    "word": "Contingency",
+    "arabic": "خطة أو احتمال طارئ",
+    "definition": "A possible future event that requires preparation.",
+    "example": "The team prepared a contingency plan for power loss.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w018",
+    "word": "Discrepancy",
+    "arabic": "تباين غير متوقع",
+    "definition": "A difference between things that should agree.",
+    "example": "We found a discrepancy between the two measurements.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w019",
+    "word": "Implication",
+    "arabic": "أثر أو دلالة",
+    "definition": "A likely consequence or suggested meaning.",
+    "example": "The finding has important implications for safety.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w020",
+    "word": "Inherent",
+    "arabic": "متأصل",
+    "definition": "Existing as a natural or essential part of something.",
+    "example": "Every method has inherent limitations.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w021",
+    "word": "Arbitrary",
+    "arabic": "اعتباطي",
+    "definition": "Based on personal choice rather than a clear reason.",
+    "example": "The threshold should not be arbitrary.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w022",
+    "word": "Plausible",
+    "arabic": "معقول أو محتمل",
+    "definition": "Seeming reasonable or likely to be true.",
+    "example": "The technician proposed a plausible explanation.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w023",
+    "word": "Rigorous",
+    "arabic": "صارم ودقيق",
+    "definition": "Extremely careful and thorough.",
+    "example": "Rigorous testing is required before deployment.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w024",
+    "word": "Explicit",
+    "arabic": "صريح وواضح",
+    "definition": "Stated clearly, leaving no uncertainty.",
+    "example": "The contract includes explicit maintenance requirements.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w025",
+    "word": "Implicit",
+    "arabic": "ضمني",
+    "definition": "Suggested without being directly stated.",
+    "example": "The request contained an implicit assumption.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w026",
+    "word": "Prioritize",
+    "arabic": "يعطي أولوية",
+    "definition": "Decide what is most important to address first.",
+    "example": "Prioritize tasks that affect personnel safety.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w027",
+    "word": "Sustain",
+    "arabic": "يحافظ على استمرارية",
+    "definition": "Keep something going over time.",
+    "example": "The company must sustain high quality standards.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w028",
+    "word": "Assess",
+    "arabic": "يقيّم",
+    "definition": "Judge the quality, value, or extent of something.",
+    "example": "Assess the evidence before making a decision.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w029",
+    "word": "Infer",
+    "arabic": "يستنتج",
+    "definition": "Reach a conclusion from evidence.",
+    "example": "We can infer the cause from the recorded trends.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w030",
+    "word": "Convey",
+    "arabic": "ينقل فكرة أو معلومة",
+    "definition": "Communicate an idea or feeling.",
+    "example": "The chart conveys the results clearly.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w031",
+    "word": "Undermine",
+    "arabic": "يقوّض",
+    "definition": "Weaken the effectiveness or authority of something.",
+    "example": "Missing data may undermine confidence in the study.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w032",
+    "word": "Predominant",
+    "arabic": "سائد أو الأكثر انتشارًا",
+    "definition": "More common or important than others.",
+    "example": "This is the predominant cause of failures in the sample.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w033",
+    "word": "Intricate",
+    "arabic": "معقّد ومفصّل",
+    "definition": "Having many small connected parts or details.",
+    "example": "The mechanism has an intricate design.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w034",
+    "word": "Nuance",
+    "arabic": "فرق دقيق في المعنى",
+    "definition": "A subtle difference in meaning or expression.",
+    "example": "Understanding the nuance improves technical communication.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w035",
+    "word": "Consolidate",
+    "arabic": "يدمج أو يعزّز",
+    "definition": "Combine several things into a single whole.",
+    "example": "Consolidate the findings into one report.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w036",
+    "word": "Anticipate",
+    "arabic": "يتوقّع مسبقًا",
+    "definition": "Expect or prepare for something in advance.",
+    "example": "Anticipate delays during the shutdown period.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w037",
+    "word": "Exacerbate",
+    "arabic": "يفاقم",
+    "definition": "Make an existing problem worse.",
+    "example": "High temperatures can exacerbate material degradation.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w038",
+    "word": "Reconcile",
+    "arabic": "يوفّق بين بيانات متعارضة",
+    "definition": "Make differing information consistent.",
+    "example": "Reconcile the readings before publishing the report.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w039",
+    "word": "Threshold",
+    "arabic": "عتبة أو حد فاصل",
+    "definition": "A level at which something begins or changes.",
+    "example": "The alarm activates when the threshold is exceeded.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w040",
+    "word": "Rationale",
+    "arabic": "مبرّر أو أساس منطقي",
+    "definition": "The reasoning behind a decision.",
+    "example": "Explain the rationale for the selected method.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w041",
+    "word": "Elaborate",
+    "arabic": "يوضّح بتفصيل",
+    "definition": "Explain or develop something in greater detail.",
+    "example": "Could you elaborate on your recommendation?",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w042",
+    "word": "Attain",
+    "arabic": "يحقق أو يبلغ",
+    "definition": "Succeed in reaching a goal or level.",
+    "example": "The unit failed to attain its target efficiency.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w043",
+    "word": "Reluctant",
+    "arabic": "متردد",
+    "definition": "Unwilling or hesitant to do something.",
+    "example": "The manager was reluctant to approve the change.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w044",
+    "word": "Compelling",
+    "arabic": "مقنع بقوة",
+    "definition": "Very convincing or persuasive.",
+    "example": "The evidence provides a compelling argument for replacement.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w045",
+    "word": "Consecutive",
+    "arabic": "متتالٍ",
+    "definition": "Following one after another without interruption.",
+    "example": "The system failed on three consecutive tests.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w046",
+    "word": "Prolonged",
+    "arabic": "ممتد لفترة طويلة",
+    "definition": "Continuing for an extended period.",
+    "example": "Prolonged exposure may damage the seal.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w047",
+    "word": "Robust",
+    "arabic": "متين وموثوق",
+    "definition": "Strong and able to perform under difficult conditions.",
+    "example": "A robust procedure reduces avoidable errors.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w048",
+    "word": "Streamline",
+    "arabic": "يبسّط ويحسّن الكفاءة",
+    "definition": "Make a process simpler and more efficient.",
+    "example": "Digital forms streamline maintenance reporting.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w049",
+    "word": "Rectify",
+    "arabic": "يصحّح أو يعالج",
+    "definition": "Put something wrong right.",
+    "example": "The supplier agreed to rectify the defect.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w050",
+    "word": "Overlook",
+    "arabic": "يغفل عن",
+    "definition": "Fail to notice or consider something.",
+    "example": "Do not overlook minor signs of wear.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w051",
+    "word": "Validate",
+    "arabic": "يتحقق من صحة",
+    "definition": "Confirm that something is accurate or acceptable.",
+    "example": "Validate the model against measured results.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w052",
+    "word": "Quantify",
+    "arabic": "يحدّد كميًا",
+    "definition": "Express or measure something as a number.",
+    "example": "Quantify the energy savings after the upgrade.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w053",
+    "word": "Fluctuate",
+    "arabic": "يتذبذب",
+    "definition": "Rise and fall irregularly.",
+    "example": "Demand can fluctuate throughout the year.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w054",
+    "word": "Adverse",
+    "arabic": "سلبي أو ضار",
+    "definition": "Having a harmful or unfavorable effect.",
+    "example": "The decision had adverse consequences.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w055",
+    "word": "Conform",
+    "arabic": "يتوافق مع",
+    "definition": "Meet the requirements of a rule or standard.",
+    "example": "The product must conform to applicable standards.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w056",
+    "word": "Leverage",
+    "arabic": "يستفيد من مورد لتحقيق نتيجة",
+    "definition": "Use something to maximum advantage.",
+    "example": "Leverage existing data to improve decisions.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w057",
+    "word": "Deploy",
+    "arabic": "ينشر أو يطبّق",
+    "definition": "Put a resource or system into use.",
+    "example": "The team will deploy the update next week.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w058",
+    "word": "Sporadic",
+    "arabic": "متقطع وغير منتظم",
+    "definition": "Occurring occasionally and irregularly.",
+    "example": "Sporadic interruptions complicated the diagnosis.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w059",
+    "word": "Persistent",
+    "arabic": "مستمر ومتكرر",
+    "definition": "Continuing despite attempts to stop it.",
+    "example": "The persistent issue requires deeper investigation.",
+    "category": "General",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w060",
+    "word": "Attributable",
+    "arabic": "يُعزى إلى",
+    "definition": "Caused by or resulting from something.",
+    "example": "The improvement is attributable to better controls.",
+    "category": "General",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w061",
+    "word": "Compliance",
+    "arabic": "الامتثال",
+    "definition": "Following established rules or requirements.",
+    "example": "The audit verified compliance with safety procedures.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w062",
+    "word": "Procurement",
+    "arabic": "المشتريات",
+    "definition": "The process of obtaining goods or services.",
+    "example": "Procurement delays affected the installation date.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w063",
+    "word": "Stakeholder",
+    "arabic": "صاحب مصلحة",
+    "definition": "A person or group affected by a decision.",
+    "example": "Consult stakeholders before making major changes.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w064",
+    "word": "Deliverable",
+    "arabic": "مخرج أو ناتج مطلوب",
+    "definition": "A specific result that must be delivered.",
+    "example": "The final technical report is a key deliverable.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w065",
+    "word": "Handover",
+    "arabic": "تسليم العمل",
+    "definition": "The transfer of responsibility to another person or team.",
+    "example": "Complete the handover before the shift ends.",
+    "category": "Workplace",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w066",
+    "word": "Escalate",
+    "arabic": "يصعّد الموضوع لجهة أعلى",
+    "definition": "Refer an issue to someone with greater authority.",
+    "example": "Escalate unresolved hazards to the supervisor.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w067",
+    "word": "Accountability",
+    "arabic": "المساءلة وتحمل المسؤولية",
+    "definition": "Responsibility for actions and results.",
+    "example": "Clear accountability improves team performance.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w068",
+    "word": "Milestone",
+    "arabic": "مرحلة أو إنجاز رئيسي",
+    "definition": "An important stage in a project.",
+    "example": "The commissioning date is a critical milestone.",
+    "category": "Workplace",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w069",
+    "word": "Backlog",
+    "arabic": "الأعمال المتراكمة",
+    "definition": "Work that has not yet been completed.",
+    "example": "The maintenance backlog grew during the shutdown.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w070",
+    "word": "Scope",
+    "arabic": "نطاق العمل",
+    "definition": "The extent of the work to be done.",
+    "example": "Define the scope before estimating the cost.",
+    "category": "Workplace",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w071",
+    "word": "Audit",
+    "arabic": "تدقيق أو مراجعة رسمية",
+    "definition": "A systematic examination of records or activities.",
+    "example": "The annual audit revealed documentation gaps.",
+    "category": "Workplace",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w072",
+    "word": "Benchmark",
+    "arabic": "معيار للمقارنة",
+    "definition": "A standard used to compare performance.",
+    "example": "Use last year's results as a benchmark.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w073",
+    "word": "Downtime",
+    "arabic": "مدة توقف المعدات",
+    "definition": "Time during which equipment is not operating.",
+    "example": "Unexpected downtime increased production losses.",
+    "category": "Mechanical Maintenance",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w074",
+    "word": "Overhaul",
+    "arabic": "عمرة أو صيانة شاملة",
+    "definition": "Thoroughly inspect and repair machinery.",
+    "example": "The compressor requires a complete overhaul.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w075",
+    "word": "Clearance",
+    "arabic": "خلوص بين الأجزاء",
+    "definition": "The small gap between mechanical components.",
+    "example": "Measure the bearing clearance before assembly.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w076",
+    "word": "Tolerance",
+    "arabic": "سماحية الأبعاد",
+    "definition": "An allowed variation from a specified dimension.",
+    "example": "The shaft diameter is outside the specified tolerance.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w077",
+    "word": "Fatigue",
+    "arabic": "إجهاد متكرر يسبب تلفًا",
+    "definition": "Weakening caused by repeated loading.",
+    "example": "The crack was caused by metal fatigue.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w078",
+    "word": "Tribology",
+    "arabic": "علم الاحتكاك والتآكل والتزييت",
+    "definition": "The study of friction, wear, and lubrication.",
+    "example": "Tribology helps explain bearing failures.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w079",
+    "word": "Fretting",
+    "arabic": "تآكل بسبب حركة اهتزازية صغيرة",
+    "definition": "Surface damage caused by repeated tiny movements.",
+    "example": "Fretting was observed at the coupling interface.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w080",
+    "word": "Galling",
+    "arabic": "تخديش والتصاق سطحي للمعادن",
+    "definition": "Severe adhesive wear between sliding metal surfaces.",
+    "example": "Insufficient lubrication can lead to galling.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w081",
+    "word": "Backlash",
+    "arabic": "خلوص الحركة بين أسنان التروس",
+    "definition": "Play between mating gear teeth.",
+    "example": "Excessive backlash may cause noise and vibration.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w082",
+    "word": "Runout",
+    "arabic": "انحراف الدوران عن المركز",
+    "definition": "Deviation of a rotating surface from its true axis.",
+    "example": "The technician measured shaft runout with a dial indicator.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w083",
+    "word": "Misalignment",
+    "arabic": "عدم محاذاة",
+    "definition": "Incorrect alignment of connected components.",
+    "example": "Misalignment can increase bearing loads.",
+    "category": "Rotating Equipment",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w084",
+    "word": "Eccentricity",
+    "arabic": "لامركزية",
+    "definition": "The distance between geometric and rotational centers.",
+    "example": "Eccentricity may increase vibration amplitude.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w085",
+    "word": "Imbalance",
+    "arabic": "عدم اتزان",
+    "definition": "Uneven mass distribution in a rotating body.",
+    "example": "Rotor imbalance caused excessive vibration.",
+    "category": "Rotating Equipment",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w086",
+    "word": "Resonance",
+    "arabic": "رنين",
+    "definition": "A large response when excitation matches a natural frequency.",
+    "example": "Resonance can amplify machine vibration.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w087",
+    "word": "Critical Speed",
+    "arabic": "السرعة الحرجة",
+    "definition": "Rotational speed near a rotor's natural frequency.",
+    "example": "The rotor should avoid sustained operation near critical speed.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w088",
+    "word": "Condition Monitoring",
+    "arabic": "مراقبة حالة المعدات",
+    "definition": "Tracking equipment health using measured indicators.",
+    "example": "Condition monitoring detected early bearing damage.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w089",
+    "word": "Predictive Maintenance",
+    "arabic": "الصيانة التنبؤية",
+    "definition": "Using condition data to anticipate failures.",
+    "example": "Predictive maintenance can reduce unplanned shutdowns.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w090",
+    "word": "Preventive Maintenance",
+    "arabic": "الصيانة الوقائية",
+    "definition": "Scheduled work intended to prevent failures.",
+    "example": "Preventive maintenance includes routine inspections.",
+    "category": "Mechanical Maintenance",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w091",
+    "word": "Root Cause Analysis",
+    "arabic": "تحليل السبب الجذري",
+    "definition": "A method for identifying why a problem happened.",
+    "example": "Root cause analysis revealed an installation error.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w092",
+    "word": "Failure Mode",
+    "arabic": "نمط الفشل",
+    "definition": "The particular way a component can fail.",
+    "example": "Document the failure mode for each critical component.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w093",
+    "word": "Mean Time Between Failures",
+    "arabic": "متوسط الزمن بين الأعطال",
+    "definition": "Average operating time between repairable system failures.",
+    "example": "Mean time between failures improved after the upgrade.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w094",
+    "word": "Mean Time To Repair",
+    "arabic": "متوسط زمن الإصلاح",
+    "definition": "Average time needed to restore failed equipment.",
+    "example": "The new procedure reduced mean time to repair.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w095",
+    "word": "Commissioning",
+    "arabic": "التشغيل الأولي والتحقق",
+    "definition": "Checking and preparing a system for initial operation.",
+    "example": "Commissioning confirmed that all pumps met requirements.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w096",
+    "word": "Decommissioning",
+    "arabic": "إخراج المعدة من الخدمة",
+    "definition": "Taking equipment permanently or temporarily out of service.",
+    "example": "Decommissioning requires a controlled isolation plan.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w097",
+    "word": "Lubricity",
+    "arabic": "قابلية التزييت",
+    "definition": "A fluid's ability to reduce friction and wear.",
+    "example": "Fuel lubricity can affect pump component life.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w098",
+    "word": "Viscosity Index",
+    "arabic": "مؤشر اللزوجة",
+    "definition": "A measure of how much viscosity changes with temperature.",
+    "example": "A high viscosity index indicates less viscosity change with temperature.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w099",
+    "word": "Cavitation",
+    "arabic": "تجويف نتيجة فقاعات البخار",
+    "definition": "Formation and collapse of vapor bubbles in a liquid.",
+    "example": "Cavitation damaged the pump impeller.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w100",
+    "word": "NPSH",
+    "arabic": "صافي ارتفاع السحب الموجب",
+    "definition": "A measure related to liquid pressure above its vapor pressure at pump suction.",
+    "example": "Insufficient NPSH can cause cavitation.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w101",
+    "word": "Seal Flush",
+    "arabic": "تدفق سائل لتنظيف أو تبريد مانع التسرب",
+    "definition": "A controlled fluid flow serving a mechanical seal.",
+    "example": "Verify the seal flush before starting the pump.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w102",
+    "word": "Mechanical Seal",
+    "arabic": "مانع تسرب ميكانيكي",
+    "definition": "A device that prevents leakage around a rotating shaft.",
+    "example": "The mechanical seal began leaking during operation.",
+    "category": "Rotating Equipment",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w103",
+    "word": "Coupling",
+    "arabic": "وصلة نقل الحركة",
+    "definition": "A component connecting two rotating shafts.",
+    "example": "Inspect the coupling for wear and misalignment.",
+    "category": "Rotating Equipment",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w104",
+    "word": "Impeller",
+    "arabic": "دفّاعة",
+    "definition": "The rotating component that transfers energy to a fluid.",
+    "example": "The impeller showed signs of erosion.",
+    "category": "Rotating Equipment",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w105",
+    "word": "Axial Thrust",
+    "arabic": "قوة دفع محورية",
+    "definition": "Force acting along the axis of a rotating shaft.",
+    "example": "The thrust bearing absorbs axial thrust.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w106",
+    "word": "Radial Load",
+    "arabic": "حمل شعاعي",
+    "definition": "Force acting perpendicular to a shaft's axis.",
+    "example": "The bearing must withstand the expected radial load.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w107",
+    "word": "Deflection",
+    "arabic": "انحراف أو ترخيم",
+    "definition": "Movement or bending under a load.",
+    "example": "Excessive shaft deflection may damage the seal.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w108",
+    "word": "Thermal Expansion",
+    "arabic": "تمدد حراري",
+    "definition": "An increase in size caused by rising temperature.",
+    "example": "Allow for thermal expansion when setting clearances.",
+    "category": "Mechanical Maintenance",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w109",
+    "word": "Heat Dissipation",
+    "arabic": "تبديد الحرارة",
+    "definition": "Transfer of heat away from a component.",
+    "example": "Adequate heat dissipation prevents overheating.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w110",
+    "word": "Erosion",
+    "arabic": "تآكل بسبب تدفق الجسيمات أو السوائل",
+    "definition": "Surface wear caused by moving fluid or particles.",
+    "example": "High fluid velocity accelerated erosion in the pipe.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w111",
+    "word": "Corrosion Allowance",
+    "arabic": "سماحية التآكل",
+    "definition": "Extra material thickness to compensate for expected corrosion.",
+    "example": "The design includes a corrosion allowance.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w112",
+    "word": "Hydraulic Actuator",
+    "arabic": "مشغّل هيدروليكي",
+    "definition": "A device that converts hydraulic energy into motion.",
+    "example": "The hydraulic actuator controls the valve position.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w113",
+    "word": "Pressure Drop",
+    "arabic": "انخفاض الضغط",
+    "definition": "A reduction in pressure through a system.",
+    "example": "A clogged filter can increase pressure drop.",
+    "category": "Hydraulics",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w114",
+    "word": "Pressure Relief Valve",
+    "arabic": "صمام تنفيس الضغط",
+    "definition": "A valve that opens to limit excessive pressure.",
+    "example": "The pressure relief valve protects the hydraulic circuit.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w115",
+    "word": "Flow Restriction",
+    "arabic": "تقييد تدفق السائل",
+    "definition": "Anything that reduces the rate of fluid flow.",
+    "example": "A damaged hose caused a significant flow restriction.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w116",
+    "word": "Accumulator",
+    "arabic": "مجمّع ضغط",
+    "definition": "A device that stores energy in a hydraulic system.",
+    "example": "The accumulator helps stabilize system pressure.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w117",
+    "word": "Hysteresis",
+    "arabic": "التباطؤ الاختلافي في الاستجابة",
+    "definition": "A difference in response depending on previous conditions.",
+    "example": "Valve hysteresis affected positioning accuracy.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w118",
+    "word": "Pressure Surge",
+    "arabic": "ارتفاع مفاجئ في الضغط",
+    "definition": "A sudden increase in fluid pressure.",
+    "example": "Rapid valve closure caused a pressure surge.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w119",
+    "word": "Aeration",
+    "arabic": "دخول الهواء إلى السائل",
+    "definition": "Introduction of air into a liquid.",
+    "example": "Oil aeration may lead to noisy pump operation.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w120",
+    "word": "Contamination",
+    "arabic": "تلوث",
+    "definition": "Presence of unwanted material in a substance.",
+    "example": "Oil contamination reduced component life.",
+    "category": "Hydraulics",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w121",
+    "word": "Filtration Efficiency",
+    "arabic": "كفاءة الترشيح",
+    "definition": "How effectively a filter removes contaminants.",
+    "example": "Filtration efficiency depends on particle size.",
+    "category": "Hydraulics",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w122",
+    "word": "Lockout Tagout",
+    "arabic": "العزل والقفل ووضع بطاقة التحذير",
+    "definition": "A process used to isolate hazardous energy before work.",
+    "example": "Follow lockout tagout procedures before maintenance.",
+    "category": "Safety",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w123",
+    "word": "Hazard Assessment",
+    "arabic": "تقييم المخاطر المحتملة",
+    "definition": "Systematic identification and evaluation of hazards.",
+    "example": "Complete a hazard assessment before entering the area.",
+    "category": "Safety",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w124",
+    "word": "Confined Space",
+    "arabic": "مكان محصور",
+    "definition": "An area with limited entry or exit not intended for continuous occupancy.",
+    "example": "Confined space entry requires special precautions.",
+    "category": "Safety",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w125",
+    "word": "Near Miss",
+    "arabic": "حادث وشيك لم يسبب ضررًا",
+    "definition": "An event that could have caused harm but did not.",
+    "example": "Report every near miss to prevent future incidents.",
+    "category": "Safety",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w126",
+    "word": "Permit to Work",
+    "arabic": "تصريح عمل",
+    "definition": "Formal authorization for a controlled activity.",
+    "example": "Obtain a permit to work before hot work begins.",
+    "category": "Safety",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w127",
+    "word": "Residual Risk",
+    "arabic": "مخاطر متبقية",
+    "definition": "Risk that remains after controls are applied.",
+    "example": "Assess the residual risk after implementing safeguards.",
+    "category": "Safety",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w128",
+    "word": "Safe Operating Envelope",
+    "arabic": "نطاق التشغيل الآمن",
+    "definition": "The limits within which a system can be operated safely.",
+    "example": "Keep the compressor within its safe operating envelope.",
+    "category": "Safety",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w129",
+    "word": "Nonconformity",
+    "arabic": "حالة عدم مطابقة",
+    "definition": "Failure to meet a stated requirement.",
+    "example": "The inspection identified a nonconformity in the procedure.",
+    "category": "Safety",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w130",
+    "word": "Traceability",
+    "arabic": "إمكانية التتبع",
+    "definition": "Ability to track the history or origin of something.",
+    "example": "Part traceability is essential for critical repairs.",
+    "category": "Workplace",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w131",
+    "word": "Intermittent",
+    "arabic": "متقطع",
+    "definition": "Occurring at irregular intervals.",
+    "example": "An intermittent fault made troubleshooting difficult.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w132",
+    "word": "Derating",
+    "arabic": "خفض القدرة التشغيلية الاسمية",
+    "definition": "Operating equipment below its rated capacity.",
+    "example": "Derating the motor reduced the risk of overheating.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w133",
+    "word": "Redundancy",
+    "arabic": "ازدواجية لضمان الاستمرارية",
+    "definition": "Extra components that provide backup if one fails.",
+    "example": "Pump redundancy improves process availability.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w134",
+    "word": "Availability",
+    "arabic": "الجاهزية التشغيلية",
+    "definition": "The proportion of time a system is ready for use.",
+    "example": "Equipment availability increased after maintenance improvements.",
+    "category": "Mechanical Maintenance",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w135",
+    "word": "Reliability",
+    "arabic": "الاعتمادية",
+    "definition": "The ability to perform a required function over time.",
+    "example": "Improved reliability reduced unexpected outages.",
+    "category": "Mechanical Maintenance",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w136",
+    "word": "Maintainability",
+    "arabic": "قابلية الصيانة",
+    "definition": "How easily equipment can be maintained or repaired.",
+    "example": "Good access improves maintainability.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w137",
+    "word": "Diagnostic",
+    "arabic": "تشخيصي",
+    "definition": "Related to identifying the cause of a problem.",
+    "example": "A diagnostic test identified the faulty sensor.",
+    "category": "Mechanical Maintenance",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w138",
+    "word": "Degradation",
+    "arabic": "تدهور تدريجي",
+    "definition": "Gradual decline in quality or performance.",
+    "example": "Seal degradation caused a gradual increase in leakage.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w139",
+    "word": "Calibration Drift",
+    "arabic": "انحراف المعايرة بمرور الوقت",
+    "definition": "A gradual change in an instrument's accuracy.",
+    "example": "Calibration drift produced misleading pressure readings.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w140",
+    "word": "Torque Ripple",
+    "arabic": "تموج عزم الدوران",
+    "definition": "Periodic variation in delivered torque.",
+    "example": "Torque ripple introduced vibration into the drive system.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w141",
+    "word": "Shaft Whirl",
+    "arabic": "حركة دوران جانبية للعمود",
+    "definition": "Orbital motion of a rotating shaft about its centerline.",
+    "example": "Shaft whirl may indicate rotor instability.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w142",
+    "word": "Vibration Spectrum",
+    "arabic": "طيف الاهتزاز",
+    "definition": "A display of vibration amplitude at different frequencies.",
+    "example": "The vibration spectrum revealed a strong harmonic peak.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w143",
+    "word": "Bearing Preload",
+    "arabic": "تحميل مسبق للمحمل",
+    "definition": "An intentional initial load applied to a bearing.",
+    "example": "Incorrect bearing preload can increase friction and heat.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w144",
+    "word": "Suction Head",
+    "arabic": "ارتفاع الضغط عند السحب",
+    "definition": "Pressure head available at a pump's inlet.",
+    "example": "Low suction head can affect pump performance.",
+    "category": "Rotating Equipment",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w145",
+    "word": "Discharge Pressure",
+    "arabic": "ضغط الطرد",
+    "definition": "Pressure at the outlet of a pump or compressor.",
+    "example": "Monitor discharge pressure after startup.",
+    "category": "Rotating Equipment",
+    "level": "B2+",
+    "source": "builtin"
+  },
+  {
+    "id": "w146",
+    "word": "Duty Cycle",
+    "arabic": "دورة التشغيل",
+    "definition": "The pattern of operating and resting time.",
+    "example": "Check whether the motor's duty cycle matches the application.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w147",
+    "word": "Interference Fit",
+    "arabic": "تركيب بتداخل أبعادي",
+    "definition": "A joint in which one part is slightly larger than its mating opening.",
+    "example": "The bearing uses an interference fit on the shaft.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  },
+  {
+    "id": "w148",
+    "word": "Thermal Runaway",
+    "arabic": "ارتفاع حراري متسارع ذاتيًا",
+    "definition": "A self-reinforcing increase in temperature.",
+    "example": "Inadequate cooling may contribute to thermal runaway.",
+    "category": "Mechanical Maintenance",
+    "level": "C1",
+    "source": "builtin"
+  }
+]
