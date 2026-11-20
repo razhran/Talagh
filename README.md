@@ -1,77 +1,121 @@
-# Talagh | طلاقة — Advanced everyday and engineering English
+<div align="center">
 
-**Talagh (طلاقة)** is an **offline-first, front-end-only** vocabulary trainer built with HTML, CSS and JavaScript. It is designed for a learner at **B2+ to C1** level with an interest in mechanical maintenance and engineering.
+<img src="assets/Talagh.png" alt="Talagh logo" width="112" />
 
-## How to launch
+# Talagh | طلاقة
 
-1. Unzip the project.
-2. **Do not open `index.html` directly using `file://`.** The word-bank JSON, JavaScript modules and browser storage are designed for HTTP(S).
-3. For local use, run a small web server inside the `vocablab` directory:
+### Five words a day. Confidence that stays.
 
-   ```bash
-   python -m http.server 8000
-   ```
+**A personal, offline-first vocabulary trainer for advanced everyday, professional, and engineering English.**
 
-4. Visit `http://localhost:8000` in Chrome, Edge, Safari or Firefox.
-5. To deploy, upload the **contents of the `vocablab` directory** to your GitHub Pages repository. GitHub Pages gives the site HTTPS, which is required for PWA installation and service workers.
+[Features](#-features) · [How it works](#-how-it-works) · [Getting started](#-getting-started) · [AI acknowledgements](#-ai-acknowledgements)
 
-## What's included
+</div>
 
-- 148 curated **B2+/C1-oriented** vocabulary entries, including advanced general English, workplace terms, mechanical maintenance, rotating equipment, hydraulics and safety. CEFR labels are editorial estimates, **not certified CEFR classifications**.
-- Custom-word creation with duplicate checking, category, definition and example.
-- Five-word daily plan, selectable general/technical ratio.
-- Start-of-day recall of the most recent prior completed lesson (two questions per word).
-- **Carry-forward rule:** two wrong answers to a word in the previous lesson or today's recall ensure it is among the next day's core words, up to five available slots. Older weak words are queued by priority.
-- Multiple-choice, typing, fill-in-the-blank and listening challenges (via browser speech synthesis).
-- Spaced repetition with review intervals dependent on recall performance.
-- Daily progress, weak words, history, streak and accuracy statistics.
-- Local IndexedDB storage, JSON export/import, and PWA assets cached for offline use after the first successful load.
-- Dark/light appearance, responsive layout for desktop/tablet/mobile.
+---
 
-## Learning rules and constraints
+## 🌱 About the project
 
-1. The day is based on the device's local calendar. The site does **not** provide tamper-proof time validation.
-2. When entering a new day, the previous completed lesson is reviewed before assigning the next five core words. If days have been missed, older overdue items are available in the separate extra-review area.
-3. Each learning and checkpoint session asks **two independent questions for each word**. Each submitted answer counts once. Two incorrect responses for the same word flag it as weak.
-4. A word flagged weak on the previous day is carried into the new lesson, **even if the morning checkpoint went well**; this gives it a reinforcement session.
-5. The word mix setting affects **future** daily plans only; existing plans remain stable.
-6. Missed or unfinished work can be resumed and rolled forward. Extra spaced-repetition questions do not count toward the five core daily slots.
-7. Audio uses the browser's `speechSynthesis` engine and installed voices. Availability and accent vary by platform.
-8. The app cannot send guaranteed daily push notifications or sync between devices without additional services.
-9. Stored data belongs to the browser profile; clearing site data will delete it unless you made a JSON backup.
-10. Some word meanings have alternatives and English words may have more than one valid answer. The typing exercise uses the bank's displayed answer; if a valid synonym is rejected, review the answer as an instructional limitation. Synonym acceptance can be extended in a later update.
+**Talagh (طلاقة)** is a personal learning project built around a simple idea: vocabulary becomes useful when you can **recall it, understand it in context, and use it confidently**—not just recognize its translation.
 
-## Project layout
+The app encourages a manageable daily habit of **five focus words**, followed by varied practice and review. Its vocabulary emphasizes **upper-intermediate to advanced English (approximately B2+–C1)**, balancing language used in everyday life and the workplace with technical terms relevant to **mechanical maintenance, rotating equipment, hydraulics, and engineering**.
 
-```
-vocablab/
-  index.html
-  manifest.webmanifest
-  sw.js
-  assets/
-    icon.svg
-    style.css
-    talagh.css
-  data/
-    words.json
-  js/
-    app.js
-    db.js
-    engine.js
+Talagh began as a tool for personal growth and hands-on web development. It is designed to stay focused, approachable, and useful over time.
+
+## ✨ Features
+
+- **Five-word daily plan:** Learn up to five focus words per day, with priority given to words that need reinforcement.
+- **Mistake-aware learning:** Words missed at least twice in independent attempts are flagged for additional practice on the following day.
+- **Varied exercises:** Multiple choice, typing, fill-in-the-blank, and listening activities.
+- **Spaced repetition:** Previously learned words return for review on an expanding schedule.
+- **Advanced word bank:** A mix of general, professional, and engineering vocabulary, with the option to add your own words.
+- **Learning insights:** Track progress, accuracy, and words that need extra attention.
+- **Local-first privacy:** Learning data is stored in your browser using IndexedDB.
+- **Backup & restore:** Export and import your learning data to keep a personal backup.
+- **Responsive interface:** Designed for desktop and mobile, with light and dark themes.
+- **PWA support:** Installable on supported devices; previously cached app resources can work offline.
+
+> **Note:** CEFR levels assigned to individual words are approximate learning labels, not an official language assessment.
+
+## 🔄 How it works
+
+```text
+Review earlier words
+        ↓
+Identify words needing reinforcement
+        ↓
+Fill the five daily slots
+(reinforcement first, then new words)
+        ↓
+Learn each word in context
+        ↓
+Practice with different question types
+        ↓
+Save progress and schedule future reviews
 ```
 
-## Storage
+If two of yesterday's words need more practice, for example, today's plan contains **two reinforcement words and three new words**. Due reviews from older lessons may appear separately, so the five-word plan stays manageable without forgetting earlier vocabulary.
 
-The app uses IndexedDB with object stores `words`, `progress`, `days`, `attempts`, and `meta`. Backups serialize these as JSON, with an application format identifier. Data is not sent to an external server.
+## 🧰 Tech stack
 
-## Notes for future enhancements
+| Technology | Purpose |
+| --- | --- |
+| HTML, CSS, JavaScript | Frontend application |
+| IndexedDB | Local learning data and progress |
+| LocalStorage | Lightweight UI preferences |
+| Service Worker + Web App Manifest | PWA and offline support |
+| [Flaticon UIcons](https://www.flaticon.com/uicons) | Interface icons |
+| GitHub Pages | Static-site hosting option |
 
-- Add a pronunciation recording option for supported browsers.
-- Add multiple accepted English synonyms for typing answers.
-- Add contextual reading comprehension and original sentence-composition tasks.
-- Add optional sync (requires a backend or cloud service).
-- Add more advanced specialist terms and manually reviewed translations.
+**No backend or account is required** for the local learning experience.
 
-## Talagh visual identity and icons
+## 🚀 Getting started
 
-The refreshed design uses light-mode by default, a violet/mint visual system, and Flaticon UIcons (Regular Rounded / Solid Rounded) loaded from the official CDN. The core study features and IndexedDB backup format are unchanged, so previous progress is preserved when deployed to the same origin/path. The UI is responsive, but **Flaticon icons require an internet connection** until you locally host properly licensed font files. Check the [Flaticon UIcons license](https://www.flaticon.com/uicons/get-started) and retain the attribution link in the website footer.
+1. Clone or download this repository.
+2. Open the project folder in your editor.
+3. Serve the project locally (for example, with **VS Code Live Server** or `python -m http.server 5500`).
+4. Open the local address shown by your server and begin your daily lesson.
+
+For deployment, publish the static project files through **GitHub Pages**. PWA functionality generally requires **HTTPS or localhost**.
+
+> **Your data stays in your browser.** Clearing browser site data, changing browsers, or using another device can remove or separate your progress. Export a backup regularly; there is no automatic cross-device sync.
+
+## 🎨 Design & identity
+
+The name **Talagh (طلاقة)** reflects the project's goal: building greater fluency, one meaningful word at a time.
+
+The visual direction combines a clean, modern interface with an Arabic-inspired logo and a distinct purple identity. The brand and logo were developed through **the creator's own design decisions and collaboration with Google Gemini**.
+
+The interface uses **Flaticon UIcons**; icon rights and applicable attribution requirements belong to their respective owners.
+
+## 🤖 AI acknowledgements
+
+Talagh is a **personal project directed and curated by its creator**, developed with the assistance of AI tools:
+
+- **OpenAI ChatGPT:** Assisted with product planning, learning-system logic, frontend implementation, debugging, and documentation.
+- **Google Gemini:** Collaborated on the visual identity and logo design process.
+
+AI was used as a **creative and development assistant**, not as a replacement for the creator's concept, decisions, testing, or ongoing improvements.
+
+## 🛣️ Roadmap
+
+- [ ] Improve contextual exercises and accepted synonyms.
+- [ ] Expand and refine the B2+–C1 vocabulary library.
+- [ ] Strengthen progress insights and review scheduling.
+- [ ] Improve accessibility and small-screen usability.
+- [ ] Add optional features based on real learning needs.
+
+## 📄 Project status & usage
+
+Talagh is an evolving personal project. Features and learning rules may change as it is tested and improved.
+
+**License:** No license has been specified yet. Please do not assume that the source code or brand assets are licensed for reuse; add a `LICENSE` file if you decide to publish under an open-source license.
+
+---
+
+<div align="center">
+
+**Talagh · طلاقة**  
+*Learn beyond memorization.*
+
+</div>
