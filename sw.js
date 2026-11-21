@@ -1,6 +1,6 @@
 // Talagh service worker v4: prefer fresh source files to prevent stale app.js errors.
-const CACHE = 'talagh-v4';
-const STATIC = ['./', './index.html', './assets/style.css', './assets/talagh.css', './assets/icon.svg', './js/app.js', './js/db.js', './js/engine.js', './data/words.json', './manifest.webmanifest'];
+const CACHE = 'talagh-v6';
+const STATIC = ['./', './index.html', './assets/style.css', './assets/talagh.css', './assets/native.css', './assets/icon.svg', './assets/Talagh.png', './assets/talagh-apple-touch.png', './js/app.js', './js/db.js', './js/engine.js', './data/words.json', './manifest.webmanifest'];
 self.addEventListener('install', event => event.waitUntil(
   caches.open(CACHE).then(cache => cache.addAll(STATIC)).then(() => self.skipWaiting())
 ));

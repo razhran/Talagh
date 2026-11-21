@@ -1,5 +1,5 @@
 {
-  "name": "Talagh طلاقة",
+  "name": "Talagh — طلاقة | Advanced English",
   "short_name": "Talagh",
   "description": "Daily B2+–C1 vocabulary practice for advanced everyday English and engineering.",
   "start_url": "./",
@@ -9,10 +9,16 @@
   "theme_color": "#6254e8",
   "icons": [
     {
-      "src": "assets/Talagh.png",
-      "sizes": "any",
+      "src": "assets/talagh-apple-touch.png",
+      "sizes": "180x180",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "assets/Talagh.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
