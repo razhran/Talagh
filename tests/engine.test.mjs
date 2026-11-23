@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {selectPlan,makeQuestions,scoreFor,updateProgress,shiftDate,normalize,consecutiveDays} from '../js/engine.js';
 const words=JSON.parse(fs.readFileSync(new URL('../data/words.json',import.meta.url),'utf8'));
-assert.equal(words.length,148);
+assert.ok(words.length>=300);
 assert.equal(new Set(words.map(w=>w.word.toLowerCase())).size,words.length);
 const initial=selectPlan(words,{},50,'2026-11-20');assert.equal(initial.length,5);
 const questions=makeQuestions(initial,words,'learn');assert.equal(questions.length,10);
