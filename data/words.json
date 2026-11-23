@@ -7,7 +7,13 @@
     "example": "The team introduced safeguards to mitigate operational risks.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يقلّل من شدة العقوبة أو الضرر",
+        "definition": "reduce the severity of a penalty or consequence"
+      }
+    ]
   },
   {
     "id": "w002",
@@ -17,7 +23,13 @@
     "example": "The report must substantiate its conclusions with data.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يثبت وجود شيء بأدلة",
+        "definition": "provide evidence that something exists or is true"
+      }
+    ]
   },
   {
     "id": "w003",
@@ -27,7 +39,13 @@
     "example": "Engineers scrutinized the inspection records before approval.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يفحص التفاصيل بعناية",
+        "definition": "inspect closely for errors or details"
+      }
+    ]
   },
   {
     "id": "w004",
@@ -37,7 +55,13 @@
     "example": "The proposed schedule is feasible within the current budget.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "قابل للتنفيذ عمليًا",
+        "definition": "practicable given time and resources"
+      }
+    ]
   },
   {
     "id": "w005",
@@ -47,7 +71,13 @@
     "example": "The preliminary results suggest a significant improvement.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "تمهيدي أو استهلالي",
+        "definition": "introductory, before the main event"
+      }
+    ]
   },
   {
     "id": "w006",
@@ -57,7 +87,13 @@
     "example": "The ambiguous instruction caused confusion among technicians.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "قابل لأكثر من تفسير",
+        "definition": "having more than one possible interpretation"
+      }
+    ]
   },
   {
     "id": "w007",
@@ -67,7 +103,13 @@
     "example": "We need a comprehensive assessment of the problem.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "شامل ومتكامل",
+        "definition": "covering a subject thoroughly"
+      }
+    ]
   },
   {
     "id": "w008",
@@ -77,7 +119,13 @@
     "example": "Subsequent tests confirmed the initial findings.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "لاحق زمنيًا",
+        "definition": "occurring after an event"
+      }
+    ]
   },
   {
     "id": "w009",
@@ -87,7 +135,13 @@
     "example": "Limited resources constrain the project's scope.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يقيّد حرية التصرف",
+        "definition": "limit someone's freedom of action"
+      }
+    ]
   },
   {
     "id": "w010",
@@ -97,7 +151,13 @@
     "example": "Allocate sufficient time for the final inspection.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يخصّص وقتًا أو ميزانية",
+        "definition": "assign time, money, or resources"
+      }
+    ]
   },
   {
     "id": "w011",
@@ -107,7 +167,13 @@
     "example": "Do not deviate from the approved procedure.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "ينحرف عن المسار",
+        "definition": "move away from an established route"
+      }
+    ]
   },
   {
     "id": "w012",
@@ -117,7 +183,13 @@
     "example": "The material may deteriorate under prolonged exposure.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "تسوء الحالة الصحية",
+        "definition": "decline in health or condition"
+      }
+    ]
   },
   {
     "id": "w013",
@@ -127,7 +199,13 @@
     "example": "The redesign could enhance overall performance.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يحسّن المظهر أو الجودة",
+        "definition": "improve appearance or quality"
+      }
+    ]
   },
   {
     "id": "w014",
@@ -137,7 +215,13 @@
     "example": "The obsolete software was replaced last year.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "عفا عليه الزمن",
+        "definition": "no longer useful due to newer alternatives"
+      }
+    ]
   },
   {
     "id": "w015",
@@ -147,7 +231,13 @@
     "example": "A resilient process can withstand unexpected disruptions.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "قادر على استعادة توازنه نفسيًا",
+        "definition": "able to recover after emotional difficulties"
+      }
+    ]
   },
   {
     "id": "w016",
@@ -157,7 +247,13 @@
     "example": "The alternative remains financially viable.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "قابل للاستمرار والنجاح",
+        "definition": "able to survive or succeed"
+      }
+    ]
   },
   {
     "id": "w017",
@@ -167,7 +263,13 @@
     "example": "The team prepared a contingency plan for power loss.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "احتمال طارئ",
+        "definition": "a possible future event requiring preparation"
+      }
+    ]
   },
   {
     "id": "w018",
@@ -177,7 +279,13 @@
     "example": "We found a discrepancy between the two measurements.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "تفاوت بين روايتين أو رقمين",
+        "definition": "difference between accounts or figures"
+      }
+    ]
   },
   {
     "id": "w019",
@@ -187,7 +295,17 @@
     "example": "The finding has important implications for safety.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "معنى ضمني أو إيحاء",
+        "definition": "an indirect meaning or suggestion"
+      },
+      {
+        "arabic": "نتيجة محتملة",
+        "definition": "a possible consequence"
+      }
+    ]
   },
   {
     "id": "w020",
@@ -197,7 +315,13 @@
     "example": "Every method has inherent limitations.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "متأصل في طبيعة الشيء",
+        "definition": "an inseparable characteristic"
+      }
+    ]
   },
   {
     "id": "w021",
@@ -207,7 +331,17 @@
     "example": "The threshold should not be arbitrary.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "اعتباطي وغير مستند لمنطق",
+        "definition": "based on whim rather than reason"
+      },
+      {
+        "arabic": "تعسفي",
+        "definition": "unfairly imposed by authority"
+      }
+    ]
   },
   {
     "id": "w022",
@@ -217,7 +351,13 @@
     "example": "The technician proposed a plausible explanation.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "معقول أو يبدو قابلًا للتصديق",
+        "definition": "seemingly believable even if unproven"
+      }
+    ]
   },
   {
     "id": "w023",
@@ -227,7 +367,13 @@
     "example": "Rigorous testing is required before deployment.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "صارم ودقيق",
+        "definition": "extremely thorough or strict"
+      }
+    ]
   },
   {
     "id": "w024",
@@ -237,7 +383,17 @@
     "example": "The contract includes explicit maintenance requirements.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "صريح وواضح",
+        "definition": "stated directly without ambiguity"
+      },
+      {
+        "arabic": "فاضح أو جنسي صريح",
+        "definition": "containing openly sexual or graphic content"
+      }
+    ]
   },
   {
     "id": "w025",
@@ -247,7 +403,13 @@
     "example": "The request contained an implicit assumption.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "ضمني أو غير معلن",
+        "definition": "suggested rather than directly stated"
+      }
+    ]
   },
   {
     "id": "w026",
@@ -267,7 +429,17 @@
     "example": "The company must sustain high quality standards.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يحافظ على الاستمرار",
+        "definition": "keep something going"
+      },
+      {
+        "arabic": "يتكبد إصابة أو خسارة",
+        "definition": "suffer an injury or loss"
+      }
+    ]
   },
   {
     "id": "w028",
@@ -277,7 +449,13 @@
     "example": "Assess the evidence before making a decision.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يقيّم القيمة أو الأثر",
+        "definition": "estimate value or impact"
+      }
+    ]
   },
   {
     "id": "w029",
@@ -287,7 +465,13 @@
     "example": "We can infer the cause from the recorded trends.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يستنتج من الأدلة",
+        "definition": "draw a conclusion from evidence"
+      }
+    ]
   },
   {
     "id": "w030",
@@ -297,7 +481,17 @@
     "example": "The chart conveys the results clearly.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "ينقل شخصًا أو شيئًا",
+        "definition": "transport somebody or something"
+      },
+      {
+        "arabic": "يوصل شعورًا",
+        "definition": "communicate an emotion or impression"
+      }
+    ]
   },
   {
     "id": "w031",
@@ -307,7 +501,13 @@
     "example": "Missing data may undermine confidence in the study.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يقوّض الثقة أو السلطة",
+        "definition": "weaken confidence or authority over time"
+      }
+    ]
   },
   {
     "id": "w032",
@@ -317,7 +517,13 @@
     "example": "This is the predominant cause of failures in the sample.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "سائد أو مهيمن",
+        "definition": "most common or influential"
+      }
+    ]
   },
   {
     "id": "w033",
@@ -327,7 +533,13 @@
     "example": "The mechanism has an intricate design.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "معقّد التفاصيل",
+        "definition": "made of many interconnected details"
+      }
+    ]
   },
   {
     "id": "w034",
@@ -337,7 +549,17 @@
     "example": "Understanding the nuance improves technical communication.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "فارق دقيق في المعنى",
+        "definition": "a subtle difference in meaning"
+      },
+      {
+        "arabic": "لمسة أو درجة خفية",
+        "definition": "a slight shade of feeling or tone"
+      }
+    ]
   },
   {
     "id": "w035",
@@ -347,7 +569,17 @@
     "example": "Consolidate the findings into one report.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يعزّز مكاسبه أو موقعه",
+        "definition": "strengthen an established position"
+      },
+      {
+        "arabic": "يدمج عدة أشياء",
+        "definition": "combine into one whole"
+      }
+    ]
   },
   {
     "id": "w036",
@@ -357,7 +589,17 @@
     "example": "Anticipate delays during the shutdown period.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يتوقع مسبقًا",
+        "definition": "expect something in advance"
+      },
+      {
+        "arabic": "يتطلع إلى شيء",
+        "definition": "look forward to something"
+      }
+    ]
   },
   {
     "id": "w037",
@@ -367,7 +609,13 @@
     "example": "High temperatures can exacerbate material degradation.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يزيد الوضع سوءًا",
+        "definition": "make a problem more severe"
+      }
+    ]
   },
   {
     "id": "w038",
@@ -377,7 +625,17 @@
     "example": "Reconcile the readings before publishing the report.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يتصالح بعد خلاف",
+        "definition": "restore friendly relations"
+      },
+      {
+        "arabic": "يوفّق بين رأيين",
+        "definition": "make conflicting ideas compatible"
+      }
+    ]
   },
   {
     "id": "w039",
@@ -387,7 +645,17 @@
     "example": "The alarm activates when the threshold is exceeded.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "عتبة باب",
+        "definition": "the strip at the entrance of a doorway"
+      },
+      {
+        "arabic": "حدّ أدنى أو نقطة تحوّل",
+        "definition": "a point at which something begins"
+      }
+    ]
   },
   {
     "id": "w040",
@@ -397,7 +665,13 @@
     "example": "Explain the rationale for the selected method.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "مبرر منطقي",
+        "definition": "a set of reasons behind a decision"
+      }
+    ]
   },
   {
     "id": "w041",
@@ -407,7 +681,17 @@
     "example": "Could you elaborate on your recommendation?",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "مفصّل أو معقّد",
+        "definition": "rich in detail"
+      },
+      {
+        "arabic": "يشرح بتفصيل",
+        "definition": "explain in greater detail"
+      }
+    ]
   },
   {
     "id": "w042",
@@ -417,7 +701,13 @@
     "example": "The unit failed to attain its target efficiency.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يبلغ مستوى أو هدفًا",
+        "definition": "reach a level or achieve a goal"
+      }
+    ]
   },
   {
     "id": "w043",
@@ -427,7 +717,13 @@
     "example": "The manager was reluctant to approve the change.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "غير راغب أو متردد",
+        "definition": "unwilling or hesitant to do something"
+      }
+    ]
   },
   {
     "id": "w044",
@@ -437,7 +733,17 @@
     "example": "The evidence provides a compelling argument for replacement.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "آسر أو يجذب الانتباه",
+        "definition": "powerfully engaging"
+      },
+      {
+        "arabic": "مُلزم أو لا يمكن تجاهله",
+        "definition": "requiring attention or action"
+      }
+    ]
   },
   {
     "id": "w045",
@@ -447,7 +753,13 @@
     "example": "The system failed on three consecutive tests.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "متتالٍ دون انقطاع",
+        "definition": "following one after another"
+      }
+    ]
   },
   {
     "id": "w046",
@@ -457,7 +769,13 @@
     "example": "Prolonged exposure may damage the seal.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "مطوّل أو ممتد",
+        "definition": "lasting longer than usual"
+      }
+    ]
   },
   {
     "id": "w047",
@@ -467,7 +785,17 @@
     "example": "A robust procedure reduces avoidable errors.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "قوي البنية",
+        "definition": "physically strong"
+      },
+      {
+        "arabic": "متين وقادر على تحمل الضغط",
+        "definition": "strong and dependable"
+      }
+    ]
   },
   {
     "id": "w048",
@@ -477,7 +805,13 @@
     "example": "Digital forms streamline maintenance reporting.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يبسّط الإجراءات",
+        "definition": "remove unnecessary complexity"
+      }
+    ]
   },
   {
     "id": "w049",
@@ -487,7 +821,13 @@
     "example": "The supplier agreed to rectify the defect.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يصوّب أو يصلح الخطأ",
+        "definition": "put something wrong right"
+      }
+    ]
   },
   {
     "id": "w050",
@@ -497,7 +837,21 @@
     "example": "Do not overlook minor signs of wear.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يغفل عن أمر",
+        "definition": "fail to notice"
+      },
+      {
+        "arabic": "يتغاضى عن خطأ",
+        "definition": "choose to ignore an offence"
+      },
+      {
+        "arabic": "يطلّ على منظر",
+        "definition": "have a view over something"
+      }
+    ]
   },
   {
     "id": "w051",
@@ -507,7 +861,17 @@
     "example": "Validate the model against measured results.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يؤكد مشاعر الآخرين",
+        "definition": "recognize someone's feelings as legitimate"
+      },
+      {
+        "arabic": "يتحقق من صحة بيانات",
+        "definition": "confirm accuracy or validity"
+      }
+    ]
   },
   {
     "id": "w052",
@@ -517,7 +881,13 @@
     "example": "Quantify the energy savings after the upgrade.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يحدد كمية أو حجمًا",
+        "definition": "express in measurable numbers"
+      }
+    ]
   },
   {
     "id": "w053",
@@ -527,7 +897,13 @@
     "example": "Demand can fluctuate throughout the year.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يتقلّب أو يتذبذب",
+        "definition": "rise and fall irregularly"
+      }
+    ]
   },
   {
     "id": "w054",
@@ -537,7 +913,13 @@
     "example": "The decision had adverse consequences.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "معاكس أو غير مواتٍ",
+        "definition": "unfavorable or harmful"
+      }
+    ]
   },
   {
     "id": "w055",
@@ -547,7 +929,17 @@
     "example": "The product must conform to applicable standards.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يمتثل للمعايير",
+        "definition": "follow a rule or standard"
+      },
+      {
+        "arabic": "يذعن لضغط المجتمع",
+        "definition": "fit prevailing expectations"
+      }
+    ]
   },
   {
     "id": "w056",
@@ -557,7 +949,17 @@
     "example": "Leverage existing data to improve decisions.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يستغل موردًا أو ميزة",
+        "definition": "use something to gain an advantage"
+      },
+      {
+        "arabic": "نفوذ أو قدرة على التأثير",
+        "definition": "power to influence a decision"
+      }
+    ]
   },
   {
     "id": "w057",
@@ -567,7 +969,17 @@
     "example": "The team will deploy the update next week.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "ينشر قوات أو معدات",
+        "definition": "position resources for use"
+      },
+      {
+        "arabic": "يوظّف المهارات",
+        "definition": "put skills or resources into action"
+      }
+    ]
   },
   {
     "id": "w058",
@@ -577,7 +989,13 @@
     "example": "Sporadic interruptions complicated the diagnosis.",
     "category": "General",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "متقطع وغير منتظم",
+        "definition": "happening occasionally and irregularly"
+      }
+    ]
   },
   {
     "id": "w059",
@@ -587,7 +1005,17 @@
     "example": "The persistent issue requires deeper investigation.",
     "category": "General",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "مثابر لا يستسلم",
+        "definition": "continuing determinedly"
+      },
+      {
+        "arabic": "مستمر ومتكرر",
+        "definition": "continuing or recurring over time"
+      }
+    ]
   },
   {
     "id": "w060",
@@ -607,7 +1035,13 @@
     "example": "The audit verified compliance with safety procedures.",
     "category": "Workplace",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "الامتثال للقواعد",
+        "definition": "acting according to requirements"
+      }
+    ]
   },
   {
     "id": "w062",
@@ -657,7 +1091,17 @@
     "example": "Escalate unresolved hazards to the supervisor.",
     "category": "Workplace",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "يصعّد خلافًا أو موقفًا",
+        "definition": "make a conflict more intense"
+      },
+      {
+        "arabic": "يرفع الأمر لجهة أعلى",
+        "definition": "refer a problem to higher authority"
+      }
+    ]
   },
   {
     "id": "w067",
@@ -667,7 +1111,13 @@
     "example": "Clear accountability improves team performance.",
     "category": "Workplace",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "المساءلة عن القرارات",
+        "definition": "obligation to explain and accept responsibility"
+      }
+    ]
   },
   {
     "id": "w068",
@@ -677,7 +1127,17 @@
     "example": "The commissioning date is a critical milestone.",
     "category": "Workplace",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "إنجاز مهم في مسيرة الشخص",
+        "definition": "an important life or project achievement"
+      },
+      {
+        "arabic": "علامة مسافة على الطريق",
+        "definition": "a distance marker on a road"
+      }
+    ]
   },
   {
     "id": "w069",
@@ -687,7 +1147,13 @@
     "example": "The maintenance backlog grew during the shutdown.",
     "category": "Workplace",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "أعمال متراكمة",
+        "definition": "unfinished tasks waiting to be handled"
+      }
+    ]
   },
   {
     "id": "w070",
@@ -697,7 +1163,17 @@
     "example": "Define the scope before estimating the cost.",
     "category": "Workplace",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "نطاق أو مجال",
+        "definition": "extent of a project or subject"
+      },
+      {
+        "arabic": "فرصة أو مجال للتحسن",
+        "definition": "room or opportunity for improvement"
+      }
+    ]
   },
   {
     "id": "w071",
@@ -707,7 +1183,13 @@
     "example": "The annual audit revealed documentation gaps.",
     "category": "Workplace",
     "level": "B2+",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "مراجعة منهجية",
+        "definition": "systematic examination of a process"
+      }
+    ]
   },
   {
     "id": "w072",
@@ -717,7 +1199,13 @@
     "example": "Use last year's results as a benchmark.",
     "category": "Workplace",
     "level": "C1",
-    "source": "builtin"
+    "source": "builtin",
+    "otherMeanings": [
+      {
+        "arabic": "معيار للمقارنة",
+        "definition": "standard used to measure performance"
+      }
+    ]
   },
   {
     "id": "w084",
@@ -829,7 +1317,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "متأمل بحنين إلى ما فات",
+        "definition": "sadly longing for an earlier time"
+      }
+    ]
   },
   {
     "id": "v7-002",
@@ -841,7 +1335,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "expressive",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "يشتهي أو يتوق إلى أمر بشدة",
+        "definition": "deeply desire something beyond romance"
+      }
+    ]
   },
   {
     "id": "v7-003",
@@ -853,7 +1353,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مبهج ومحزن في الوقت نفسه",
+        "definition": "mixing happiness with sadness"
+      },
+      {
+        "arabic": "حلو ومر حرفيًا",
+        "definition": "having both sweet and bitter flavors"
+      }
+    ]
   },
   {
     "id": "v7-004",
@@ -865,7 +1375,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "مهجور أو متروك وحده",
+        "definition": "abandoned or deserted"
+      },
+      {
+        "arabic": "مُتخلّى عنه",
+        "definition": "rejected or given up"
+      }
+    ]
   },
   {
     "id": "v7-005",
@@ -877,7 +1397,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "expressive",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "يعذّب نفسيًا",
+        "definition": "cause severe mental suffering"
+      },
+      {
+        "arabic": "معاناة شديدة",
+        "definition": "extreme physical or emotional pain"
+      }
+    ]
   },
   {
     "id": "v7-006",
@@ -889,7 +1419,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "التزام عميق بقضية",
+        "definition": "dedication to a cause or activity"
+      },
+      {
+        "arabic": "تديّن أو عبادة",
+        "definition": "religious worship or piety"
+      }
+    ]
   },
   {
     "id": "v7-007",
@@ -901,7 +1441,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "متداخل أو مرتبط ارتباطًا وثيقًا",
+        "definition": "closely interconnected"
+      },
+      {
+        "arabic": "متشابك جسديًا",
+        "definition": "twisted around each other"
+      }
+    ]
   },
   {
     "id": "v7-008",
@@ -914,7 +1464,21 @@
     "source": "builtin",
     "register": "neutral",
     "usage": "general",
-    "figurativeMeaning": "Emotionally empty or lacking sincerity"
+    "figurativeMeaning": "Emotionally empty or lacking sincerity",
+    "otherMeanings": [
+      {
+        "arabic": "أجوف من الداخل",
+        "definition": "empty inside physically"
+      },
+      {
+        "arabic": "زائف أو بلا صدق",
+        "definition": "insincere or without substance"
+      },
+      {
+        "arabic": "صوت أجوف",
+        "definition": "a deep, resonant sound"
+      }
+    ]
   },
   {
     "id": "v7-009",
@@ -927,7 +1491,17 @@
     "source": "builtin",
     "register": "neutral",
     "usage": "general",
-    "figurativeMeaning": "Unable to respond emotionally"
+    "figurativeMeaning": "Unable to respond emotionally",
+    "otherMeanings": [
+      {
+        "arabic": "مخدّر أو فاقد الإحساس",
+        "definition": "physically unable to feel"
+      },
+      {
+        "arabic": "مُتبلّد عاطفيًا",
+        "definition": "emotionally unresponsive"
+      }
+    ]
   },
   {
     "id": "v7-010",
@@ -939,7 +1513,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يبقى رغم انقضاء الوقت",
+        "definition": "remain longer than expected"
+      },
+      {
+        "arabic": "يتباطأ أو يتلكأ",
+        "definition": "delay leaving or moving on"
+      },
+      {
+        "arabic": "يبقى أثر الرائحة أو الذكرى",
+        "definition": "a smell or memory continues"
+      }
+    ]
   },
   {
     "id": "v7-011",
@@ -951,7 +1539,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مرارة متراكمة تجاه شخص",
+        "definition": "lingering bitterness over perceived unfairness"
+      }
+    ]
   },
   {
     "id": "v7-012",
@@ -963,7 +1557,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متردد بسبب مشاعر متضاربة",
+        "definition": "holding opposing feelings about something"
+      }
+    ]
   },
   {
     "id": "v7-013",
@@ -975,7 +1575,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متظاهر بعدم الاكتراث",
+        "definition": "casually unconcerned, sometimes deliberately"
+      }
+    ]
   },
   {
     "id": "v7-014",
@@ -987,7 +1593,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "حزن هادئ وعميق",
+        "definition": "a reflective and persistent sadness"
+      }
+    ]
   },
   {
     "id": "v7-015",
@@ -999,7 +1611,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "معرّض للخطر أو الأذى",
+        "definition": "at risk of physical or social harm"
+      },
+      {
+        "arabic": "صريح ومنفتح عاطفيًا",
+        "definition": "emotionally open and exposed"
+      }
+    ]
   },
   {
     "id": "v7-016",
@@ -1011,7 +1633,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "منفصل أو غير متصل",
+        "definition": "physically separated"
+      },
+      {
+        "arabic": "موضوعي وغير منحاز",
+        "definition": "emotionally distant or impartial"
+      }
+    ]
   },
   {
     "id": "v7-017",
@@ -1023,7 +1655,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "خاب أمله بعد اكتشاف الحقيقة",
+        "definition": "disappointed after losing an idealized belief"
+      }
+    ]
   },
   {
     "id": "v7-018",
@@ -1035,7 +1673,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "واجهة مبنى",
+        "definition": "the front of a building"
+      },
+      {
+        "arabic": "مظهر زائف أو قناع اجتماعي",
+        "definition": "a deceptive outward appearance"
+      }
+    ]
   },
   {
     "id": "v7-019",
@@ -1047,7 +1695,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مُبعد أو يشعر بالغربة",
+        "definition": "isolated or estranged from a group"
+      }
+    ]
   },
   {
     "id": "v7-020",
@@ -1060,7 +1714,21 @@
     "source": "builtin",
     "register": "neutral",
     "usage": "general",
-    "figurativeMeaning": "A feeling of emotional emptiness"
+    "figurativeMeaning": "A feeling of emotional emptiness",
+    "otherMeanings": [
+      {
+        "arabic": "فراغ أو خواء",
+        "definition": "an empty space"
+      },
+      {
+        "arabic": "باطل قانونيًا",
+        "definition": "legally invalid"
+      },
+      {
+        "arabic": "فجوة عاطفية",
+        "definition": "a sense of emotional emptiness"
+      }
+    ]
   },
   {
     "id": "v7-021",
@@ -1072,7 +1740,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "غريب ومخيف بشكل غامض",
+        "definition": "strange in an unsettling way"
+      }
+    ]
   },
   {
     "id": "v7-022",
@@ -1084,7 +1758,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "expressive",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "يبقى عالقًا في الذاكرة",
+        "definition": "emotionally memorable"
+      },
+      {
+        "arabic": "مخيف وكأنه مسكون",
+        "definition": "ghostly or frightening"
+      }
+    ]
   },
   {
     "id": "v7-023",
@@ -1096,7 +1780,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مؤثر ويثير الحزن أو الحنين",
+        "definition": "deeply moving, often in a sad way"
+      }
+    ]
   },
   {
     "id": "v7-024",
@@ -1108,7 +1798,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "خاطف أو قصير الأمد",
+        "definition": "lasting only for a very short time"
+      }
+    ]
   },
   {
     "id": "v7-025",
@@ -1120,7 +1816,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتردد أو يفقد الثقة",
+        "definition": "hesitate or lose confidence"
+      },
+      {
+        "arabic": "يتعثر أو يضعف",
+        "definition": "stumble or lose strength"
+      }
+    ]
   },
   {
     "id": "v7-026",
@@ -1133,7 +1839,21 @@
     "source": "builtin",
     "register": "neutral",
     "usage": "general",
-    "figurativeMeaning": "A situation or plan gradually falls apart"
+    "figurativeMeaning": "A situation or plan gradually falls apart",
+    "otherMeanings": [
+      {
+        "arabic": "يفكّ تشابك الخيوط",
+        "definition": "undo threads or knots"
+      },
+      {
+        "arabic": "يكشف حقيقة لغز",
+        "definition": "solve or explain a mystery"
+      },
+      {
+        "arabic": "ينهار تدريجيًا",
+        "definition": "gradually fall apart"
+      }
+    ]
   },
   {
     "id": "v7-027",
@@ -1145,7 +1865,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "ينحلّ أو ينفكّ",
+        "definition": "become unfastened"
+      },
+      {
+        "arabic": "يفقد تماسكه النفسي",
+        "definition": "lose emotional control"
+      }
+    ]
   },
   {
     "id": "v7-028",
@@ -1157,7 +1887,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "تتباعد العلاقة تدريجيًا",
+        "definition": "grow less close over time"
+      },
+      {
+        "arabic": "يبتعدان جسديًا مع التيار",
+        "definition": "move apart without deliberate action"
+      }
+    ]
   },
   {
     "id": "v7-029",
@@ -1169,7 +1909,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يكبت مشاعره",
+        "definition": "suppress emotions"
+      },
+      {
+        "arabic": "يعبّئ في زجاجات",
+        "definition": "put liquid into bottles"
+      }
+    ]
   },
   {
     "id": "v7-030",
@@ -1181,7 +1931,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتجاهل باستخفاف",
+        "definition": "dismiss or ignore"
+      },
+      {
+        "arabic": "ينفض شيئًا عن سطح",
+        "definition": "remove dust or dirt with a brush"
+      }
+    ]
   },
   {
     "id": "v7-031",
@@ -1193,7 +1953,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يضمر ضغينة",
+        "definition": "remain angry about a past wrong"
+      }
+    ]
   },
   {
     "id": "v7-032",
@@ -1205,7 +1971,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "لا يقدّر نعمة أو شخصًا",
+        "definition": "fail to appreciate someone or something"
+      },
+      {
+        "arabic": "يفترض صحة شيء دون تحقق",
+        "definition": "assume something without checking"
+      }
+    ]
   },
   {
     "id": "v7-033",
@@ -1217,7 +1993,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يشكك في قرار بعد اتخاذه",
+        "definition": "question a decision retrospectively"
+      },
+      {
+        "arabic": "يتنبأ بما سيفكر به شخص",
+        "definition": "try to anticipate someone else's thoughts"
+      }
+    ]
   },
   {
     "id": "v7-034",
@@ -1229,7 +2015,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يخذل",
+        "definition": "disappoint someone"
+      },
+      {
+        "arabic": "يُنزل شيئًا للأسفل",
+        "definition": "lower an object"
+      },
+      {
+        "arabic": "يترك شعره منسدلًا",
+        "definition": "loosen hair so it hangs down"
+      }
+    ]
   },
   {
     "id": "v7-035",
@@ -1241,7 +2041,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "سئم أو ضاق ذرعًا",
+        "definition": "tired and irritated by a situation"
+      }
+    ]
   },
   {
     "id": "v7-036",
@@ -1253,7 +2059,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتحمل شيئًا مزعجًا",
+        "definition": "tolerate someone or something unpleasant"
+      }
+    ]
   },
   {
     "id": "v7-037",
@@ -1265,7 +2077,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتقن شيئًا مع الممارسة",
+        "definition": "gradually learn how to do something"
+      }
+    ]
   },
   {
     "id": "v7-038",
@@ -1277,7 +2095,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يصادف شخصًا صدفة",
+        "definition": "meet unexpectedly"
+      },
+      {
+        "arabic": "يواجه مشكلة",
+        "definition": "encounter a difficulty"
+      },
+      {
+        "arabic": "يصطدم بشيء",
+        "definition": "collide with something"
+      }
+    ]
   },
   {
     "id": "v7-039",
@@ -1289,7 +2121,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يوضح بالتفصيل",
+        "definition": "explain very clearly"
+      },
+      {
+        "arabic": "يتهجّى حروف الكلمة",
+        "definition": "say or write each letter"
+      }
+    ]
   },
   {
     "id": "v7-040",
@@ -1301,7 +2143,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يكبح مشاعره",
+        "definition": "restrain emotions"
+      },
+      {
+        "arabic": "يمنع التقدم",
+        "definition": "prevent progress"
+      },
+      {
+        "arabic": "يحجب معلومات",
+        "definition": "withhold information"
+      }
+    ]
   },
   {
     "id": "v7-041",
@@ -1313,7 +2169,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يبوح بمشاعره",
+        "definition": "share personal feelings"
+      },
+      {
+        "arabic": "يفتح متجرًا أو مكانًا",
+        "definition": "begin operating"
+      },
+      {
+        "arabic": "تظهر فرص جديدة",
+        "definition": "become available"
+      }
+    ]
   },
   {
     "id": "v7-042",
@@ -1326,7 +2196,21 @@
     "source": "builtin",
     "register": "informal",
     "usage": "conversational",
-    "figurativeMeaning": "To become emotionally unresponsive"
+    "figurativeMeaning": "To become emotionally unresponsive",
+    "otherMeanings": [
+      {
+        "arabic": "يغلق نشاطًا",
+        "definition": "stop an operation"
+      },
+      {
+        "arabic": "ينغلق عاطفيًا",
+        "definition": "become emotionally unresponsive"
+      },
+      {
+        "arabic": "يسكت اعتراضًا",
+        "definition": "silence criticism"
+      }
+    ]
   },
   {
     "id": "v7-043",
@@ -1338,7 +2222,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتخلص من شعور أو أثر",
+        "definition": "get rid of a feeling"
+      },
+      {
+        "arabic": "ينفض شيئًا عنه",
+        "definition": "remove by shaking"
+      },
+      {
+        "arabic": "يفلت من شخص يلاحقه",
+        "definition": "escape a pursuer"
+      }
+    ]
   },
   {
     "id": "v7-044",
@@ -1350,7 +2248,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتجاوز تجربة ويكمل حياته",
+        "definition": "recover and continue"
+      },
+      {
+        "arabic": "ينتقل إلى موضوع آخر",
+        "definition": "change to the next topic"
+      }
+    ]
   },
   {
     "id": "v7-045",
@@ -1362,7 +2270,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "ينهار عاطفيًا",
+        "definition": "lose emotional control"
+      },
+      {
+        "arabic": "يتفكك ماديًا",
+        "definition": "break into pieces"
+      },
+      {
+        "arabic": "تنهار خطة",
+        "definition": "a plan fails completely"
+      }
+    ]
   },
   {
     "id": "v7-046",
@@ -1374,7 +2296,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "ينهار نفسيًا",
+        "definition": "lose emotional control"
+      },
+      {
+        "arabic": "يتعطل جهاز",
+        "definition": "stop functioning"
+      },
+      {
+        "arabic": "يحلّل شيئًا لأجزاء",
+        "definition": "divide information into parts"
+      }
+    ]
   },
   {
     "id": "v7-047",
@@ -1386,7 +2322,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يبدأ يعجبك تدريجيًا",
+        "definition": "become more appealing over time"
+      },
+      {
+        "arabic": "ينمو على سطح",
+        "definition": "grow on something physically"
+      }
+    ]
   },
   {
     "id": "v7-048",
@@ -1398,7 +2344,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يلامس الشخص بقوة",
+        "definition": "feel personally relevant"
+      },
+      {
+        "arabic": "يصل إلى صميم المشكلة",
+        "definition": "strike the core of an issue"
+      }
+    ]
   },
   {
     "id": "v7-049",
@@ -1410,7 +2366,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يلامس المشاعر أو يثير تعاطفًا",
+        "definition": "evoke a recognizable emotion"
+      }
+    ]
   },
   {
     "id": "v7-050",
@@ -1422,7 +2384,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يفهم المعنى غير المصرّح به",
+        "definition": "detect an implied meaning"
+      }
+    ]
   },
   {
     "id": "v7-051",
@@ -1434,7 +2402,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "متردد بين خيارين",
+        "definition": "undecided between alternatives"
+      }
+    ]
   },
   {
     "id": "v7-052",
@@ -1446,7 +2420,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "فجأة ومن دون توقع",
+        "definition": "unexpectedly or without warning"
+      }
+    ]
   },
   {
     "id": "v7-053",
@@ -1458,7 +2438,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "بعد النظر إلى الماضي",
+        "definition": "with knowledge gained after an event"
+      }
+    ]
   },
   {
     "id": "v7-054",
@@ -1470,7 +2456,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "على خلاف مع شخص أو فكرة",
+        "definition": "in conflict or disagreement"
+      }
+    ]
   },
   {
     "id": "v7-055",
@@ -1482,7 +2474,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتقبّل حقيقة صعبة",
+        "definition": "accept or emotionally process something difficult"
+      }
+    ]
   },
   {
     "id": "v7-056",
@@ -1494,7 +2492,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتصالح مع شخص",
+        "definition": "end a conflict with someone"
+      },
+      {
+        "arabic": "يتقبل أمرًا لا يستطيع تغييره",
+        "definition": "accept an unpleasant reality"
+      }
+    ]
   },
   {
     "id": "v7-057",
@@ -1506,7 +2514,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "لا يحقق المطلوب",
+        "definition": "fail to meet an expectation"
+      },
+      {
+        "arabic": "ينقص عن هدف رقمي",
+        "definition": "be below a target"
+      }
+    ]
   },
   {
     "id": "v7-058",
@@ -1518,7 +2536,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يرتقي إلى مستوى التوقعات",
+        "definition": "meet hopes, standards, or expectations"
+      }
+    ]
   },
   {
     "id": "v7-059",
@@ -1530,7 +2554,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يزول تأثير الدواء",
+        "definition": "a drug's effect fades"
+      },
+      {
+        "arabic": "يتلاشى شعور أو حماس",
+        "definition": "a feeling gradually fades"
+      }
+    ]
   },
   {
     "id": "v7-060",
@@ -1542,7 +2576,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "تترسخ المعلومة أو يستوعبها",
+        "definition": "become fully understood"
+      },
+      {
+        "arabic": "يتشرب السائل",
+        "definition": "be absorbed into a surface"
+      }
+    ]
   },
   {
     "id": "v7-061",
@@ -1554,7 +2598,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يرضى بما هو أقل من المرغوب",
+        "definition": "accept less than wanted"
+      }
+    ]
   },
   {
     "id": "v7-062",
@@ -1566,7 +2616,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يستسلم للضغط",
+        "definition": "yield to pressure"
+      }
+    ]
   },
   {
     "id": "v7-063",
@@ -1578,7 +2634,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتراجع عن موقف",
+        "definition": "withdraw a demand or challenge"
+      }
+    ]
   },
   {
     "id": "v7-064",
@@ -1590,7 +2652,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "ينتقد علنًا",
+        "definition": "publicly challenge bad behavior"
+      },
+      {
+        "arabic": "ينادي بصوت عالٍ",
+        "definition": "shout to someone"
+      },
+      {
+        "arabic": "يستدعي شخصًا للخدمة",
+        "definition": "summon for duty"
+      }
+    ]
   },
   {
     "id": "v7-065",
@@ -1602,7 +2678,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "تمر الأزمة وتنتهي",
+        "definition": "a problem fades away"
+      },
+      {
+        "arabic": "تسقطه الرياح",
+        "definition": "be blown down by wind"
+      }
+    ]
   },
   {
     "id": "v7-066",
@@ -1614,7 +2700,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتغاضى عمدًا",
+        "definition": "knowingly ignore something wrong"
+      }
+    ]
   },
   {
     "id": "v7-067",
@@ -1626,7 +2718,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتصرف بحذر شديد مع شخص",
+        "definition": "act very carefully to avoid upsetting someone"
+      }
+    ]
   },
   {
     "id": "v7-068",
@@ -1638,7 +2736,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يندفع بحماس زائد",
+        "definition": "become overly excited"
+      },
+      {
+        "arabic": "يجرفه تيار ماديًا",
+        "definition": "be physically carried away"
+      }
+    ]
   },
   {
     "id": "v7-069",
@@ -1650,7 +2758,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يؤثر سلبًا بمرور الوقت",
+        "definition": "cause gradual physical or emotional damage"
+      },
+      {
+        "arabic": "يحصّل رسوم عبور",
+        "definition": "collect a fee (literal toll)"
+      }
+    ]
   },
   {
     "id": "v7-070",
@@ -1662,7 +2780,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يبقي خطرًا أو شعورًا بعيدًا",
+        "definition": "prevent something from approaching"
+      }
+    ]
   },
   {
     "id": "v7-071",
@@ -1674,7 +2798,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يقطع علاقة أو ارتباطًا",
+        "definition": "end a personal or professional relationship"
+      }
+    ]
   },
   {
     "id": "v7-072",
@@ -1686,7 +2816,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتجاوز الحدود المقبولة",
+        "definition": "go beyond acceptable behavior"
+      },
+      {
+        "arabic": "يعبر خطًا حرفيًا",
+        "definition": "move across a marked line"
+      }
+    ]
   },
   {
     "id": "v7-073",
@@ -1698,7 +2838,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "إشارات متناقضة أو مربكة",
+        "definition": "conflicting messages about intentions"
+      }
+    ]
   },
   {
     "id": "v7-074",
@@ -1710,7 +2856,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "غير مُعلن أو غير مصرح به",
+        "definition": "communicated without being said"
+      },
+      {
+        "arabic": "مفهوم ضمنيًا",
+        "definition": "mutually understood but not verbalized"
+      }
+    ]
   },
   {
     "id": "v7-075",
@@ -1722,7 +2878,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مقلق أو يبعث على عدم الراحة",
+        "definition": "disturbingly strange or worrying"
+      }
+    ]
   },
   {
     "id": "v7-076",
@@ -1734,7 +2896,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مثقل بالمسؤوليات",
+        "definition": "unable to cope with too much"
+      },
+      {
+        "arabic": "غمرته المشاعر",
+        "definition": "deeply affected by an emotion"
+      }
+    ]
   },
   {
     "id": "v7-077",
@@ -1746,7 +2918,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "مخيّب للتوقعات",
+        "definition": "less impressive than expected"
+      }
+    ]
   },
   {
     "id": "v7-078",
@@ -1758,7 +2936,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مثير للحماس والنشوة",
+        "definition": "making someone feel thrilled"
+      }
+    ]
   },
   {
     "id": "v7-079",
@@ -1770,7 +2954,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "رهبة أو خوف من القادم",
+        "definition": "intense anticipation of something unpleasant"
+      },
+      {
+        "arabic": "يخشى بشدة",
+        "definition": "fear something in advance"
+      }
+    ]
   },
   {
     "id": "v7-080",
@@ -1782,7 +2976,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "قلق أو متوجس",
+        "definition": "anxious about a future event"
+      },
+      {
+        "arabic": "متحفظ قبل الإقدام",
+        "definition": "hesitant due to concern"
+      }
+    ]
   },
   {
     "id": "v7-081",
@@ -1794,7 +2998,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "غير مرتاح نفسيًا",
+        "definition": "anxious or uncomfortable"
+      },
+      {
+        "arabic": "غير مستقر",
+        "definition": "not smooth or settled"
+      }
+    ]
   },
   {
     "id": "v7-082",
@@ -1806,7 +3020,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "غير قادر على الاستقرار",
+        "definition": "unable to relax or stay still"
+      },
+      {
+        "arabic": "متلهف للتغيير",
+        "definition": "eager for change"
+      }
+    ]
   },
   {
     "id": "v7-083",
@@ -1818,7 +3042,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "محتار تمامًا",
+        "definition": "utterly confused"
+      }
+    ]
   },
   {
     "id": "v7-084",
@@ -1830,7 +3060,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حائر وغير قادر على الفهم",
+        "definition": "confused by complexity"
+      }
+    ]
   },
   {
     "id": "v7-085",
@@ -1842,7 +3078,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "تائه ومشوش",
+        "definition": "deeply confused or disoriented"
+      }
+    ]
   },
   {
     "id": "v7-086",
@@ -1866,7 +3108,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "خفيف يصعب ملاحظته",
+        "definition": "delicate or barely noticeable"
+      },
+      {
+        "arabic": "ذكي وغير مباشر",
+        "definition": "cleverly indirect"
+      }
+    ]
   },
   {
     "id": "v7-088",
@@ -1878,7 +3130,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "نبرة خفية أو إيحاء",
+        "definition": "subtle underlying tone"
+      },
+      {
+        "arabic": "درجة لون خافتة",
+        "definition": "a faint secondary color"
+      }
+    ]
   },
   {
     "id": "v7-089",
@@ -1890,7 +3152,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يلمح إلى شيء دون تسميته",
+        "definition": "refer indirectly"
+      }
+    ]
   },
   {
     "id": "v7-090",
@@ -1902,7 +3170,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يستحضر ذكرى أو شعورًا",
+        "definition": "bring a feeling or memory to mind"
+      },
+      {
+        "arabic": "يستثير رد فعل",
+        "definition": "produce a response"
+      }
+    ]
   },
   {
     "id": "v7-091",
@@ -1914,7 +3192,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يلقى صدى لدى شخص",
+        "definition": "feel meaningful or relatable"
+      },
+      {
+        "arabic": "يرنّ ويتردد صداه",
+        "definition": "produce resonance physically"
+      }
+    ]
   },
   {
     "id": "v7-092",
@@ -1926,7 +3214,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "آسر للانتباه",
+        "definition": "holding someone's attention"
+      }
+    ]
   },
   {
     "id": "v7-093",
@@ -1938,7 +3232,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "عميق فكريًا أو عاطفيًا",
+        "definition": "deep and far-reaching"
+      },
+      {
+        "arabic": "شديد التأثير",
+        "definition": "extreme in intensity"
+      }
+    ]
   },
   {
     "id": "v7-094",
@@ -1950,7 +3254,21 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يفصح عن الأفكار بوضوح",
+        "definition": "express ideas effectively"
+      },
+      {
+        "arabic": "فصيح اللسان",
+        "definition": "able to speak clearly"
+      },
+      {
+        "arabic": "مفصلي أو ذو وصلات",
+        "definition": "having joints (technical)"
+      }
+    ]
   },
   {
     "id": "v7-095",
@@ -1962,7 +3280,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "صريح بلا تكلف",
+        "definition": "frank and honest"
+      },
+      {
+        "arabic": "صورة عفوية غير متكلفة",
+        "definition": "an unposed photograph"
+      }
+    ]
   },
   {
     "id": "v7-096",
@@ -1974,7 +3302,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "صريح لدرجة قد تكون جارحة",
+        "definition": "direct without tact"
+      },
+      {
+        "arabic": "غير حادّ",
+        "definition": "not sharp"
+      }
+    ]
   },
   {
     "id": "v7-097",
@@ -1986,7 +3324,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "لبق ويراعي مشاعر الآخرين",
+        "definition": "careful not to offend"
+      }
+    ]
   },
   {
     "id": "v7-098",
@@ -1998,7 +3342,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مستخف أو غير آبه",
+        "definition": "treating someone as unimportant"
+      }
+    ]
   },
   {
     "id": "v7-099",
@@ -2010,7 +3360,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متعالي أو متفضل بفوقية",
+        "definition": "showing a sense of superiority"
+      }
+    ]
   },
   {
     "id": "v7-100",
@@ -2022,7 +3378,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حقيقي غير مقلّد",
+        "definition": "authentic rather than fake"
+      },
+      {
+        "arabic": "صادق المشاعر",
+        "definition": "sincere"
+      }
+    ]
   },
   {
     "id": "v7-101",
@@ -2034,7 +3400,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "غير صادق أو متصنّع",
+        "definition": "not genuinely meant"
+      }
+    ]
   },
   {
     "id": "v7-102",
@@ -2046,7 +3418,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متكلّف لإظهار التفوق",
+        "definition": "trying too hard to impress"
+      }
+    ]
   },
   {
     "id": "v7-103",
@@ -2058,7 +3436,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "سطحي في التفكير",
+        "definition": "lacking depth"
+      },
+      {
+        "arabic": "ظاهري أو متعلق بالسطح",
+        "definition": "existing on the surface"
+      }
+    ]
   },
   {
     "id": "v7-104",
@@ -2070,7 +3458,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "أصيل وغير مزيّف",
+        "definition": "genuine or original"
+      },
+      {
+        "arabic": "صادق في التعبير عن الذات",
+        "definition": "true to one's character"
+      }
+    ]
   },
   {
     "id": "v7-105",
@@ -2082,7 +3480,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "محرج وواعٍ بنظرة الآخرين",
+        "definition": "uncomfortably aware of oneself"
+      },
+      {
+        "arabic": "مقصود أو متعمد",
+        "definition": "done with awareness of oneself"
+      }
+    ]
   },
   {
     "id": "v7-106",
@@ -2094,7 +3502,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "عديم الثقة بالنفس",
+        "definition": "lacking confidence"
+      },
+      {
+        "arabic": "غير آمن",
+        "definition": "not protected from danger"
+      }
+    ]
   },
   {
     "id": "v7-107",
@@ -2106,7 +3524,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتخذ موقفًا دفاعيًا نفسيًا",
+        "definition": "reacting as though criticized"
+      },
+      {
+        "arabic": "دفاعي أو وقائي",
+        "definition": "intended to protect"
+      }
+    ]
   },
   {
     "id": "v7-108",
@@ -2118,7 +3546,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يطمئن شخصًا",
+        "definition": "remove someone's doubts or fears"
+      },
+      {
+        "arabic": "يؤكد مجددًا",
+        "definition": "provide renewed assurance"
+      }
+    ]
   },
   {
     "id": "v7-109",
@@ -2130,7 +3568,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتجاهل عمدًا",
+        "definition": "pay no attention to"
+      },
+      {
+        "arabic": "عدم اعتبار",
+        "definition": "lack of consideration"
+      }
+    ]
   },
   {
     "id": "v7-110",
@@ -2142,7 +3590,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متردد أو غير حاسم",
+        "definition": "slow to act due to uncertainty"
+      }
+    ]
   },
   {
     "id": "v7-111",
@@ -2154,7 +3608,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حذر أو متوجس",
+        "definition": "cautious of possible danger"
+      }
+    ]
   },
   {
     "id": "v7-112",
@@ -2166,7 +3626,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متشكك ويطلب دليلًا",
+        "definition": "doubting the truth of a claim"
+      }
+    ]
   },
   {
     "id": "v7-113",
@@ -2178,7 +3644,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "ساخر من نوايا الآخرين",
+        "definition": "distrusting others' motives"
+      },
+      {
+        "arabic": "متشائم بشأن المبادئ",
+        "definition": "believing ideals are insincere"
+      }
+    ]
   },
   {
     "id": "v7-114",
@@ -2190,7 +3666,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "ساذج لقلة الخبرة",
+        "definition": "lacking worldly experience"
+      },
+      {
+        "arabic": "بريء وبسيط",
+        "definition": "innocently straightforward"
+      }
+    ]
   },
   {
     "id": "v7-115",
@@ -2202,7 +3688,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "سريع التصديق والخداع",
+        "definition": "easily deceived"
+      }
+    ]
   },
   {
     "id": "v7-116",
@@ -2214,7 +3706,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "عنيد لا يتراجع",
+        "definition": "unwilling to change one's mind"
+      },
+      {
+        "arabic": "مستعصٍ أو يصعب علاجه",
+        "definition": "difficult to remove or solve"
+      }
+    ]
   },
   {
     "id": "v7-117",
@@ -2226,7 +3728,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "هدوء وتماسك النفس",
+        "definition": "self-control under pressure"
+      }
+    ]
   },
   {
     "id": "v7-118",
@@ -2238,7 +3746,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "واضح وحيوي بالتفاصيل",
+        "definition": "richly detailed"
+      },
+      {
+        "arabic": "زاهٍ وقوي اللون",
+        "definition": "bright or intense in color"
+      }
+    ]
   },
   {
     "id": "v7-119",
@@ -2250,7 +3768,21 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "كئيب أو قاتم",
+        "definition": "gloomy"
+      },
+      {
+        "arabic": "قاحل أو خالٍ",
+        "definition": "bare and exposed"
+      },
+      {
+        "arabic": "آفاق سيئة",
+        "definition": "offering little hope"
+      }
+    ]
   },
   {
     "id": "v7-120",
@@ -2262,7 +3794,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حزين وجاد",
+        "definition": "serious and gloomy"
+      },
+      {
+        "arabic": "داكن اللون",
+        "definition": "dark or dull in color"
+      }
+    ]
   },
   {
     "id": "v7-121",
@@ -2274,7 +3816,25 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حنون ولطيف",
+        "definition": "gentle and caring"
+      },
+      {
+        "arabic": "طري أو سهل المضغ",
+        "definition": "soft to bite"
+      },
+      {
+        "arabic": "حساس ومؤلم عند اللمس",
+        "definition": "sore to touch"
+      },
+      {
+        "arabic": "عرض رسمي",
+        "definition": "a formal offer (noun)"
+      }
+    ]
   },
   {
     "id": "v7-122",
@@ -2287,7 +3847,25 @@
     "source": "builtin",
     "register": "informal",
     "usage": "conversational",
-    "figurativeMeaning": "Emotionally exposed or unfiltered"
+    "figurativeMeaning": "Emotionally exposed or unfiltered",
+    "otherMeanings": [
+      {
+        "arabic": "نيّئ وغير مطبوخ",
+        "definition": "uncooked"
+      },
+      {
+        "arabic": "صادق وعارٍ من التصنع",
+        "definition": "unfiltered emotion"
+      },
+      {
+        "arabic": "خام وغير معالج",
+        "definition": "unprocessed material"
+      },
+      {
+        "arabic": "مؤلم أو ملتهب",
+        "definition": "sore or exposed"
+      }
+    ]
   },
   {
     "id": "v7-123",
@@ -2299,7 +3877,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مريح بعد تفريغ المشاعر",
+        "definition": "emotionally relieving"
+      }
+    ]
   },
   {
     "id": "v7-124",
@@ -2311,7 +3895,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "نهاية تمنح راحة نفسية",
+        "definition": "emotional resolution"
+      },
+      {
+        "arabic": "إغلاق أو إنهاء",
+        "definition": "act of closing something"
+      }
+    ]
   },
   {
     "id": "v7-125",
@@ -2323,7 +3917,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "نادم أو آسف",
+        "definition": "feeling sorry about a choice"
+      }
+    ]
   },
   {
     "id": "v7-126",
@@ -2335,7 +3935,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "تأنيب ضمير شديد",
+        "definition": "deep guilt for a wrong action"
+      }
+    ]
   },
   {
     "id": "v7-127",
@@ -2347,7 +3953,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حزن عميق بسبب فقد",
+        "definition": "intense sorrow after a loss"
+      }
+    ]
   },
   {
     "id": "v7-128",
@@ -2359,7 +3971,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "expressive",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "ألم أو وجع عاطفي",
+        "definition": "deep emotional pain"
+      }
+    ]
   },
   {
     "id": "v7-129",
@@ -2371,7 +3989,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مفطور القلب",
+        "definition": "devastated by sadness or loss"
+      }
+    ]
   },
   {
     "id": "v7-130",
@@ -2383,7 +4007,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "غير متبادل في الحب",
+        "definition": "love or affection that is not returned"
+      }
+    ]
   },
   {
     "id": "v7-131",
@@ -2395,7 +4025,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مفتون بشدة وبصورة مؤقتة",
+        "definition": "overwhelmed by intense attraction"
+      }
+    ]
   },
   {
     "id": "v7-132",
@@ -2407,7 +4043,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "مُعجب أو مولع بشدة",
+        "definition": "deeply attracted or charmed"
+      }
+    ]
   },
   {
     "id": "v7-133",
@@ -2419,7 +4061,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يعتز بشخص أو ذكرى",
+        "definition": "hold dear"
+      },
+      {
+        "arabic": "يحافظ على شيء ثمين",
+        "definition": "protect with care"
+      }
+    ]
   },
   {
     "id": "v7-134",
@@ -2431,7 +4083,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "منقطع العلاقة مع شخص",
+        "definition": "no longer close to family or partner"
+      },
+      {
+        "arabic": "منفصل أو مغترب عن محيطه",
+        "definition": "alienated from a group"
+      }
+    ]
   },
   {
     "id": "v7-135",
@@ -2443,7 +4105,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "عزاء أو مواساة",
+        "definition": "comfort during distress"
+      },
+      {
+        "arabic": "يواسي",
+        "definition": "give comfort to someone"
+      }
+    ]
   },
   {
     "id": "v7-136",
@@ -2455,7 +4127,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مهلة أو راحة مؤقتة",
+        "definition": "temporary relief"
+      },
+      {
+        "arabic": "تأجيل عقوبة",
+        "definition": "postponement of punishment"
+      }
+    ]
   },
   {
     "id": "v7-137",
@@ -2467,7 +4149,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "غموض أو عدم يقين",
+        "definition": "lack of confidence about what will happen"
+      }
+    ]
   },
   {
     "id": "v7-138",
@@ -2479,7 +4167,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حتمي لا مفر منه",
+        "definition": "certain to happen"
+      }
+    ]
   },
   {
     "id": "v7-139",
@@ -2491,7 +4185,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "صعب الفهم أو التحديد",
+        "definition": "difficult to define"
+      },
+      {
+        "arabic": "مراوغ ويصعب الإمساك به",
+        "definition": "hard to catch"
+      }
+    ]
   },
   {
     "id": "v7-140",
@@ -2503,7 +4207,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "غير ملموس ماديًا",
+        "definition": "cannot be touched"
+      },
+      {
+        "arabic": "يصعب وصفه أو قياسه",
+        "definition": "hard to quantify"
+      }
+    ]
   },
   {
     "id": "v7-141",
@@ -2515,7 +4229,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "عابر وقصير الأمد",
+        "definition": "lasting a very short time"
+      }
+    ]
   },
   {
     "id": "v7-142",
@@ -2527,7 +4247,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حنين إلى الماضي",
+        "definition": "affectionate longing for the past"
+      }
+    ]
   },
   {
     "id": "v7-143",
@@ -2539,7 +4265,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "expressive",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "رغبة عميقة في شيء غائب",
+        "definition": "strong desire for someone or something absent"
+      }
+    ]
   },
   {
     "id": "v7-144",
@@ -2551,7 +4283,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "expressive",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "اشتياق شديد",
+        "definition": "intense emotional longing"
+      }
+    ]
   },
   {
     "id": "v7-145",
@@ -2563,7 +4301,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "غارق في التفكير",
+        "definition": "deeply thoughtful, often somewhat sad"
+      }
+    ]
   },
   {
     "id": "v7-146",
@@ -2575,7 +4319,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "تفكير قاتم ومتواصل",
+        "definition": "dwelling on gloomy thoughts"
+      },
+      {
+        "arabic": "يحوم أو يغطّي المكان",
+        "definition": "loom over an area"
+      }
+    ]
   },
   {
     "id": "v7-147",
@@ -2587,7 +4341,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "عابس وصامت باستياء",
+        "definition": "silently resentful"
+      }
+    ]
   },
   {
     "id": "v7-148",
@@ -2599,7 +4359,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "literary",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "حزين أو نادم قليلًا",
+        "definition": "showing mild regret"
+      }
+    ]
   },
   {
     "id": "v7-149",
@@ -2611,7 +4377,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متحدٍ يرفض الامتثال",
+        "definition": "openly resisting authority"
+      }
+    ]
   },
   {
     "id": "v7-150",
@@ -2623,7 +4395,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متهور بلا تقدير للعواقب",
+        "definition": "careless about danger"
+      }
+    ]
   },
   {
     "id": "v7-151",
@@ -2635,7 +4413,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مندفع بلا تفكير",
+        "definition": "acting on sudden urges"
+      }
+    ]
   },
   {
     "id": "v7-152",
@@ -2647,7 +4431,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "عفوي دون تخطيط",
+        "definition": "unplanned and natural"
+      },
+      {
+        "arabic": "يحدث من تلقاء نفسه",
+        "definition": "happening without an external trigger"
+      }
+    ]
   },
   {
     "id": "v7-153",
@@ -2659,7 +4453,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متقلب المزاج أو الولاء",
+        "definition": "changing frequently and unpredictably"
+      }
+    ]
   },
   {
     "id": "v7-154",
@@ -2671,7 +4471,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "معيب أو غير مثالي",
+        "definition": "imperfect or defective"
+      }
+    ]
   },
   {
     "id": "v7-155",
@@ -2683,7 +4489,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متقن بلا أخطاء",
+        "definition": "perfectly done"
+      }
+    ]
   },
   {
     "id": "v7-156",
@@ -2695,7 +4507,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "متناقض داخليًا",
+        "definition": "mutually inconsistent"
+      }
+    ]
   },
   {
     "id": "v7-157",
@@ -2707,7 +4525,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مفارقة منطقية ظاهرًا",
+        "definition": "seemingly contradictory yet possibly true"
+      }
+    ]
   },
   {
     "id": "v7-158",
@@ -2719,7 +4543,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "سخرية تحمل معنى معاكسًا",
+        "definition": "saying the opposite of what is meant"
+      },
+      {
+        "arabic": "مفارقة غير متوقعة",
+        "definition": "an outcome contrary to expectations"
+      }
+    ]
   },
   {
     "id": "v7-159",
@@ -2731,7 +4565,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "ساخر بقصد النقد أو اللذع",
+        "definition": "using irony to mock"
+      }
+    ]
   },
   {
     "id": "v7-160",
@@ -2743,7 +4583,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "ظريف وسريع البديهة",
+        "definition": "cleverly humorous"
+      }
+    ]
   },
   {
     "id": "v7-161",
@@ -2755,7 +4601,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "تافه أو صغير الشأن",
+        "definition": "trivial or unimportant"
+      },
+      {
+        "arabic": "حقود بشأن صغائر الأمور",
+        "definition": "spiteful over minor issues"
+      }
+    ]
   },
   {
     "id": "v7-162",
@@ -2767,7 +4623,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "ضغينة مستمرة",
+        "definition": "persistent resentment"
+      }
+    ]
   },
   {
     "id": "v7-163",
@@ -2779,7 +4641,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "خيانة الثقة أو الولاء",
+        "definition": "violation of trust"
+      }
+    ]
   },
   {
     "id": "v7-164",
@@ -2791,7 +4659,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "خداع متعمّد",
+        "definition": "deliberate dishonesty"
+      }
+    ]
   },
   {
     "id": "v7-165",
@@ -2803,7 +4677,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مضلّل أو خادع",
+        "definition": "giving a false impression"
+      }
+    ]
   },
   {
     "id": "v7-166",
@@ -2815,7 +4695,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "خافت أو ضعيف",
+        "definition": "barely noticeable"
+      },
+      {
+        "arabic": "يشعر بدوار شديد",
+        "definition": "be on the verge of passing out"
+      },
+      {
+        "arabic": "يُغمى عليه",
+        "definition": "lose consciousness"
+      }
+    ]
   },
   {
     "id": "v7-167",
@@ -2828,7 +4722,21 @@
     "source": "builtin",
     "register": "expressive",
     "usage": "expressive",
-    "figurativeMeaning": "A brief sign of an emotion"
+    "figurativeMeaning": "A brief sign of an emotion",
+    "otherMeanings": [
+      {
+        "arabic": "وميض متقطع",
+        "definition": "a brief unsteady light"
+      },
+      {
+        "arabic": "يظهر شعور للحظة",
+        "definition": "briefly show an emotion"
+      },
+      {
+        "arabic": "يرمش سريعًا",
+        "definition": "move or flash quickly"
+      }
+    ]
   },
   {
     "id": "v7-168",
@@ -2840,7 +4748,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتلاشى تدريجيًا",
+        "definition": "gradually disappear"
+      }
+    ]
   },
   {
     "id": "v7-169",
@@ -2853,7 +4767,21 @@
     "source": "builtin",
     "register": "neutral",
     "usage": "general",
-    "figurativeMeaning": "An opportunity or moment is lost"
+    "figurativeMeaning": "An opportunity or moment is lost",
+    "otherMeanings": [
+      {
+        "arabic": "يفلت أو يضيع دون ملاحظة",
+        "definition": "escape unnoticed"
+      },
+      {
+        "arabic": "يمرّ الوقت بسرعة",
+        "definition": "time passes unnoticed"
+      },
+      {
+        "arabic": "ينسحب بهدوء",
+        "definition": "leave quietly"
+      }
+    ]
   },
   {
     "id": "v7-170",
@@ -2866,7 +4794,13 @@
     "source": "builtin",
     "register": "neutral",
     "usage": "general",
-    "figurativeMeaning": "To overwhelm or suppress a thought or feeling"
+    "figurativeMeaning": "To overwhelm or suppress a thought or feeling",
+    "otherMeanings": [
+      {
+        "arabic": "يطغى الصوت على صوت آخر",
+        "definition": "make another sound inaudible"
+      }
+    ]
   },
   {
     "id": "v7-171",
@@ -2878,7 +4812,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتوقف عن الإصغاء",
+        "definition": "stop paying attention"
+      },
+      {
+        "arabic": "يصفّي ذهنه من الضوضاء",
+        "definition": "ignore distractions"
+      }
+    ]
   },
   {
     "id": "v7-172",
@@ -2890,7 +4834,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يسرح الذهن",
+        "definition": "lose focus on one's surroundings"
+      }
+    ]
   },
   {
     "id": "v7-173",
@@ -2902,7 +4852,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مفاجأ دون استعداد",
+        "definition": "taken by surprise"
+      }
+    ]
   },
   {
     "id": "v7-174",
@@ -2914,7 +4870,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "بعيد عن الواقع أو التطورات",
+        "definition": "unaware of current realities"
+      },
+      {
+        "arabic": "منقطع التواصل",
+        "definition": "no longer in contact"
+      }
+    ]
   },
   {
     "id": "v7-175",
@@ -2926,7 +4892,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "غير مناسب للمكان",
+        "definition": "inappropriate for a setting"
+      },
+      {
+        "arabic": "يشعر بعدم الانتماء",
+        "definition": "feel that one does not belong"
+      }
+    ]
   },
   {
     "id": "v7-176",
@@ -2938,7 +4914,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "expressive",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "يشاهد من الخارج دون انتماء",
+        "definition": "feel excluded from a group"
+      }
+    ]
   },
   {
     "id": "v7-177",
@@ -2950,7 +4932,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتصرف آليًا بلا اهتمام",
+        "definition": "perform routine actions without genuine engagement"
+      }
+    ]
   },
   {
     "id": "v7-178",
@@ -2962,7 +4950,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يتظاهر بالشجاعة أو الصلابة",
+        "definition": "hide distress behind an appearance of courage"
+      }
+    ]
   },
   {
     "id": "v7-179",
@@ -2974,7 +4968,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يحافظ على رباطة جأشه",
+        "definition": "remain emotionally composed"
+      },
+      {
+        "arabic": "يحافظ على تنظيم أموره",
+        "definition": "keep things under control"
+      }
+    ]
   },
   {
     "id": "v7-180",
@@ -2986,7 +4990,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يفقد تسلسل أفكاره",
+        "definition": "forget what one was about to say"
+      }
+    ]
   },
   {
     "id": "v7-181",
@@ -2998,7 +5008,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يستفز شخصًا بشدة",
+        "definition": "annoy deeply"
+      },
+      {
+        "arabic": "يؤثر فيه عاطفيًا",
+        "definition": "affect someone emotionally in a lasting way"
+      }
+    ]
   },
   {
     "id": "v7-182",
@@ -3010,7 +5030,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يترك أثرًا لا يُنسى",
+        "definition": "make a lasting impression"
+      },
+      {
+        "arabic": "يخلّف علامة مادية",
+        "definition": "leave a physical trace"
+      }
+    ]
   },
   {
     "id": "v7-183",
@@ -3022,7 +5052,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يثقل على النفس",
+        "definition": "cause ongoing worry or burden"
+      }
+    ]
   },
   {
     "id": "v7-184",
@@ -3034,7 +5070,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "expressive",
-    "usage": "expressive"
+    "usage": "expressive",
+    "otherMeanings": [
+      {
+        "arabic": "ينهش مشاعر شخص تدريجيًا",
+        "definition": "slowly erode emotional well-being"
+      },
+      {
+        "arabic": "يتآكل شيئًا ماديًا",
+        "definition": "gradually corrode a material"
+      }
+    ]
   },
   {
     "id": "v7-185",
@@ -3046,7 +5092,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "حائر بين خيارين",
+        "definition": "unable to choose between competing options"
+      }
+    ]
   },
   {
     "id": "v7-186",
@@ -3058,7 +5110,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مختلف جدًا عن",
+        "definition": "very different from"
+      }
+    ]
   },
   {
     "id": "v7-187",
@@ -3070,7 +5128,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "ليس تمامًا",
+        "definition": "not completely"
+      },
+      {
+        "arabic": "بالكاد أو قريب لكن لم يصل",
+        "definition": "almost but not exactly"
+      }
+    ]
   },
   {
     "id": "v7-188",
@@ -3082,7 +5150,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "في معظم الأحيان",
+        "definition": "usually"
+      }
+    ]
   },
   {
     "id": "v7-189",
@@ -3094,7 +5168,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "لعل رأيي يساعد رغم محدوديته",
+        "definition": "offering an opinion modestly"
+      }
+    ]
   },
   {
     "id": "v7-190",
@@ -3106,7 +5186,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "formal",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "إلى حدّ ما",
+        "definition": "partly or in some measure"
+      }
+    ]
   },
   {
     "id": "v7-191",
@@ -3118,7 +5204,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "بكل تأكيد تفضل",
+        "definition": "certainly"
+      },
+      {
+        "arabic": "بأي وسيلة ممكنة",
+        "definition": "using any means available"
+      }
+    ]
   },
   {
     "id": "v7-192",
@@ -3130,7 +5226,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "بعد إعادة النظر",
+        "definition": "after reconsidering"
+      }
+    ]
   },
   {
     "id": "v7-193",
@@ -3142,7 +5244,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "مع ذلك",
+        "definition": "however, despite the previous point"
+      }
+    ]
   },
   {
     "id": "v7-194",
@@ -3154,7 +5262,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "كما اتضح",
+        "definition": "as was eventually discovered"
+      }
+    ]
   },
   {
     "id": "v7-195",
@@ -3166,7 +5280,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يتكلّف جهدًا إضافيًا لأجل شخص",
+        "definition": "make a special effort"
+      }
+    ]
   },
   {
     "id": "v7-196",
@@ -3178,7 +5298,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "informal",
-    "usage": "conversational"
+    "usage": "conversational",
+    "otherMeanings": [
+      {
+        "arabic": "يعتبر النقد موجهًا لشخصه",
+        "definition": "interpret remarks as a personal attack"
+      }
+    ]
   },
   {
     "id": "v7-197",
@@ -3190,7 +5316,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يفترض حسن النية رغم الشك",
+        "definition": "choose a favorable interpretation without proof"
+      }
+    ]
   },
   {
     "id": "v7-198",
@@ -3202,7 +5334,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "يكشف الكثير دون كلام",
+        "definition": "communicate a great deal implicitly"
+      }
+    ]
   },
   {
     "id": "v7-199",
@@ -3214,7 +5352,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "neutral",
-    "usage": "general"
+    "usage": "general",
+    "otherMeanings": [
+      {
+        "arabic": "شعور بالانتماء",
+        "definition": "feeling accepted within a community"
+      }
+    ]
   },
   {
     "id": "exp0001",
@@ -3226,7 +5370,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يشدّد على أهمية نقطة",
+        "definition": "give special importance"
+      }
+    ]
   },
   {
     "id": "exp0002",
@@ -3238,7 +5388,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يسلّط الضوء على نقطة",
+        "definition": "draw attention to"
+      },
+      {
+        "arabic": "يحدد بلون فاقع",
+        "definition": "mark text with color"
+      }
+    ]
   },
   {
     "id": "exp0003",
@@ -3250,7 +5410,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يحدّد الخطوط العريضة",
+        "definition": "summarize the main points"
+      },
+      {
+        "arabic": "المخطط العام",
+        "definition": "a general plan"
+      },
+      {
+        "arabic": "يرسم حدود شكل",
+        "definition": "trace the outer edge"
+      }
+    ]
   },
   {
     "id": "exp0004",
@@ -3262,7 +5436,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يوضّح بمثال",
+        "definition": "explain with examples"
+      },
+      {
+        "arabic": "يرسم صورًا توضيحية",
+        "definition": "add pictures to a book"
+      }
+    ]
   },
   {
     "id": "exp0005",
@@ -3274,7 +5458,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يؤكد مرة أخرى",
+        "definition": "repeat for emphasis"
+      }
+    ]
   },
   {
     "id": "exp0006",
@@ -3286,7 +5476,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يلخّص",
+        "definition": "give a brief account"
+      }
+    ]
   },
   {
     "id": "exp0007",
@@ -3298,7 +5494,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يزيل الغموض",
+        "definition": "make something clear"
+      }
+    ]
   },
   {
     "id": "exp0008",
@@ -3310,7 +5512,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "قادر على الإقناع",
+        "definition": "effective at changing minds"
+      }
+    ]
   },
   {
     "id": "exp0009",
@@ -3322,7 +5530,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "موجز دون إخلال",
+        "definition": "brief but complete"
+      }
+    ]
   },
   {
     "id": "exp0010",
@@ -3334,7 +5548,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "منطقي ومترابط",
+        "definition": "logically connected"
+      },
+      {
+        "arabic": "واضح الفهم",
+        "definition": "easy to follow"
+      }
+    ]
   },
   {
     "id": "exp0011",
@@ -3346,7 +5570,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "عميق الفهم",
+        "definition": "showing perceptive understanding"
+      }
+    ]
   },
   {
     "id": "exp0012",
@@ -3358,7 +5588,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "وجهة نظر",
+        "definition": "a particular viewpoint"
+      },
+      {
+        "arabic": "منظور بصري",
+        "definition": "visual technique showing depth"
+      },
+      {
+        "arabic": "إدراك للأحجام النسبية",
+        "definition": "sense of proportion"
+      }
+    ]
   },
   {
     "id": "exp0013",
@@ -3370,7 +5614,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "كامن أو غير ظاهر",
+        "definition": "hidden beneath the surface"
+      },
+      {
+        "arabic": "أساسي أو جذري",
+        "definition": "forming a fundamental cause"
+      }
+    ]
   },
   {
     "id": "exp0014",
@@ -3382,7 +5636,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يمكن القول إن",
+        "definition": "plausibly, though open to debate"
+      }
+    ]
   },
   {
     "id": "exp0015",
@@ -3394,7 +5654,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "مع ذلك رغم ما سبق",
+        "definition": "in spite of that"
+      }
+    ]
   },
   {
     "id": "exp0016",
@@ -3406,7 +5672,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "علاوة على ذلك",
+        "definition": "in addition to what was said"
+      }
+    ]
   },
   {
     "id": "exp0017",
@@ -3418,7 +5690,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "بالعكس أو من جهة مقابلة",
+        "definition": "in the opposite situation"
+      }
+    ]
   },
   {
     "id": "exp0018",
@@ -3430,7 +5708,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "باعتراف صريح",
+        "definition": "it must be conceded"
+      }
+    ]
   },
   {
     "id": "exp0019",
@@ -3442,7 +5726,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "في نهاية المطاف",
+        "definition": "finally"
+      },
+      {
+        "arabic": "في الأساس أو في الجوهر",
+        "definition": "at the most fundamental level"
+      }
+    ]
   },
   {
     "id": "exp0020",
@@ -3454,7 +5748,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "على نحو ملحوظ",
+        "definition": "especially or importantly"
+      }
+    ]
   },
   {
     "id": "exp0021",
@@ -3466,7 +5766,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "بعبارة أبسط",
+        "definition": "in simpler terms"
+      }
+    ]
   },
   {
     "id": "exp0022",
@@ -3478,7 +5784,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "من ناحية أخرى",
+        "definition": "introducing a contrasting view"
+      }
+    ]
   },
   {
     "id": "exp0023",
@@ -3490,7 +5802,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يوصل فكرة بوضوح",
+        "definition": "communicate successfully"
+      },
+      {
+        "arabic": "يعبر من جهة إلى أخرى",
+        "definition": "cross a place"
+      }
+    ]
   },
   {
     "id": "exp0024",
@@ -3502,7 +5824,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Conversation"
+    "topic": "Conversation",
+    "otherMeanings": [
+      {
+        "arabic": "يطرح موضوعًا",
+        "definition": "introduce a topic"
+      },
+      {
+        "arabic": "يربّي طفلًا",
+        "definition": "raise a child"
+      },
+      {
+        "arabic": "يتقيأ",
+        "definition": "vomit"
+      }
+    ]
   },
   {
     "id": "exp0025",
@@ -3514,7 +5850,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يلفت الانتباه إلى شيء",
+        "definition": "draw attention to a fact"
+      }
+    ]
   },
   {
     "id": "exp0026",
@@ -3526,7 +5868,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يتطرق بإيجاز",
+        "definition": "mention briefly"
+      },
+      {
+        "arabic": "يلمس سطح شيء",
+        "definition": "touch something physically"
+      }
+    ]
   },
   {
     "id": "exp0027",
@@ -3538,7 +5890,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يدعم ادعاءً بالأدلة",
+        "definition": "support a claim with evidence"
+      }
+    ]
   },
   {
     "id": "exp0028",
@@ -3550,7 +5908,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "يلقى صدى عاطفيًا",
+        "definition": "strike an emotional chord"
+      },
+      {
+        "arabic": "يرنّ أو يهتز بصدى",
+        "definition": "vibrate or echo"
+      }
+    ]
   },
   {
     "id": "exp0029",
@@ -3562,7 +5930,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Literary / Expressive",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "يتوق أو يشتاق بشدة",
+        "definition": "long intensely"
+      }
+    ]
   },
   {
     "id": "exp0030",
@@ -3574,7 +5948,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "يحمل استياءً أو ضغينة",
+        "definition": "feeling bitterness or indignation"
+      }
+    ]
   },
   {
     "id": "exp0031",
@@ -3586,7 +5966,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "متضارب المشاعر",
+        "definition": "having opposing feelings"
+      },
+      {
+        "arabic": "في حالة نزاع",
+        "definition": "involved in a conflict"
+      }
+    ]
   },
   {
     "id": "exp0032",
@@ -3598,7 +5988,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Conversation"
+    "topic": "Conversation",
+    "otherMeanings": [
+      {
+        "arabic": "لم ينبهر",
+        "definition": "less impressed than expected"
+      }
+    ]
   },
   {
     "id": "exp0033",
@@ -3610,7 +6006,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Reflection & Expression"
+    "topic": "Reflection & Expression",
+    "otherMeanings": [
+      {
+        "arabic": "يتخلى عن فكرة أو شعور",
+        "definition": "release an attachment"
+      },
+      {
+        "arabic": "يفلت شيئًا من يده",
+        "definition": "physically release something"
+      }
+    ]
   },
   {
     "id": "exp0034",
@@ -3622,7 +6028,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Conversation"
+    "topic": "Conversation",
+    "otherMeanings": [
+      {
+        "arabic": "يبدأ يعجب الشخص تدريجيًا",
+        "definition": "become more appealing with time"
+      }
+    ]
   },
   {
     "id": "exp0035",
@@ -3634,7 +6046,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Conversation"
+    "topic": "Conversation",
+    "otherMeanings": [
+      {
+        "arabic": "يفاجئ شخصًا دون استعداد",
+        "definition": "take someone by surprise"
+      }
+    ]
   },
   {
     "id": "exp0036",
@@ -3646,7 +6064,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Idiomatic",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "على ظاهره",
+        "definition": "without questioning deeper meaning"
+      },
+      {
+        "arabic": "بقيمة اسمية",
+        "definition": "at the stated monetary value"
+      }
+    ]
   },
   {
     "id": "exp0037",
@@ -3658,7 +6086,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يعبّر بالكلمات",
+        "definition": "find language to describe a feeling"
+      }
+    ]
   },
   {
     "id": "exp0038",
@@ -3670,7 +6104,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يختار تعبيرًا مناسبًا",
+        "definition": "select an appropriate way to say something"
+      }
+    ]
   },
   {
     "id": "exp0039",
@@ -3682,7 +6122,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Conversational",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يوضح حجة أو فكرة",
+        "definition": "state a meaningful argument"
+      },
+      {
+        "arabic": "يتعمد فعل شيء",
+        "definition": "make a deliberate effort to do something"
+      }
+    ]
   },
   {
     "id": "exp0040",
@@ -3694,7 +6144,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Idiomatic",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يرسّخ فكرة بقوة",
+        "definition": "make a point especially clear"
+      }
+    ]
   },
   {
     "id": "exp0041",
@@ -3706,7 +6162,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Idiomatic",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "فكرة تستحق التأمل",
+        "definition": "something worth considering"
+      }
+    ]
   },
   {
     "id": "exp0042",
@@ -3718,7 +6180,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Idiomatic",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "أمر له فوائد وأضرار",
+        "definition": "something with both positive and negative effects"
+      }
+    ]
   },
   {
     "id": "exp0043",
@@ -3730,7 +6198,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "الرؤية الأشمل",
+        "definition": "the broader context"
+      }
+    ]
   },
   {
     "id": "exp0044",
@@ -3742,7 +6216,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Reflection & Expression"
+    "topic": "Reflection & Expression",
+    "otherMeanings": [
+      {
+        "arabic": "منعطف حاسم",
+        "definition": "a moment of important change"
+      }
+    ]
   },
   {
     "id": "exp0045",
@@ -3754,7 +6234,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Expressive",
-    "topic": "Reflection & Expression"
+    "topic": "Reflection & Expression",
+    "otherMeanings": [
+      {
+        "arabic": "شك مستمر",
+        "definition": "an uncertainty that remains"
+      }
+    ]
   },
   {
     "id": "exp0046",
@@ -3766,7 +6252,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Conversation"
+    "topic": "Conversation",
+    "otherMeanings": [
+      {
+        "arabic": "على وشك",
+        "definition": "very close to doing or experiencing something"
+      }
+    ]
   },
   {
     "id": "exp0047",
@@ -3778,7 +6270,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "على المدى الطويل",
+        "definition": "over a long period"
+      }
+    ]
   },
   {
     "id": "exp0048",
@@ -3790,7 +6288,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "أبدًا أو ليس بأي حال",
+        "definition": "not at all"
+      }
+    ]
   },
   {
     "id": "exp0049",
@@ -3802,7 +6306,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "في جوهر الأمر",
+        "definition": "basically"
+      }
+    ]
   },
   {
     "id": "exp0050",
@@ -3814,7 +6324,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "نتيجة لذلك",
+        "definition": "as a consequence"
+      }
+    ]
   },
   {
     "id": "exp0051",
@@ -3826,7 +6342,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "على النقيض",
+        "definition": "in comparison with a difference"
+      }
+    ]
   },
   {
     "id": "exp0052",
@@ -3838,7 +6360,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Conversation"
+    "topic": "Conversation",
+    "otherMeanings": [
+      {
+        "arabic": "ليس بالضرورة",
+        "definition": "not always or inevitably"
+      }
+    ]
   },
   {
     "id": "exp0053",
@@ -3850,7 +6378,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Idiomatic",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "من البديهي",
+        "definition": "it is obvious without explanation"
+      }
+    ]
   },
   {
     "id": "exp0054",
@@ -3862,7 +6396,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "يستوعب أو يفسّر",
+        "definition": "understand something confusing"
+      }
+    ]
   },
   {
     "id": "exp0055",
@@ -3874,7 +6414,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يكشف ما كان مخفيًا",
+        "definition": "reveal previously hidden information"
+      }
+    ]
   },
   {
     "id": "exp0056",
@@ -3886,7 +6432,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يوضّح أو يفسّر",
+        "definition": "make something easier to understand"
+      }
+    ]
   },
   {
     "id": "exp0057",
@@ -3898,7 +6450,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يحدّد الأجواء",
+        "definition": "establish the mood"
+      },
+      {
+        "arabic": "يضع معيارًا للنقاش",
+        "definition": "establish how later discussion proceeds"
+      }
+    ]
   },
   {
     "id": "exp0058",
@@ -3910,7 +6472,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يترك أثرًا في النفوس",
+        "definition": "have a memorable effect"
+      }
+    ]
   },
   {
     "id": "exp0059",
@@ -3922,7 +6490,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يدخل في صلب الموضوع",
+        "definition": "stop digressing and say what matters"
+      }
+    ]
   },
   {
     "id": "exp0060",
@@ -3934,7 +6508,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Idiomatic",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يرتجل بسرعة",
+        "definition": "respond quickly without preparation"
+      }
+    ]
   },
   {
     "id": "exp0061",
@@ -3946,7 +6526,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Reflection & Expression"
+    "topic": "Reflection & Expression",
+    "otherMeanings": [
+      {
+        "arabic": "يضع الأمور في حجمها الحقيقي",
+        "definition": "judge something within the wider context"
+      }
+    ]
   },
   {
     "id": "exp0062",
@@ -3958,7 +6544,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يمضي خطوة إضافية",
+        "definition": "extend an idea or action"
+      }
+    ]
   },
   {
     "id": "exp0063",
@@ -3970,7 +6562,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يترك مجالًا لشيء",
+        "definition": "allow possibility or space for something"
+      }
+    ]
   },
   {
     "id": "exp0064",
@@ -3982,7 +6580,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يبرز بين الآخرين",
+        "definition": "be noticeably different"
+      },
+      {
+        "arabic": "يكون واضحًا للعين",
+        "definition": "be visually prominent"
+      }
+    ]
   },
   {
     "id": "exp0065",
@@ -3994,7 +6602,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Conversational",
-    "topic": "Conversation"
+    "topic": "Conversation",
+    "otherMeanings": [
+      {
+        "arabic": "ينقلب إلى نتيجة عكسية",
+        "definition": "have the opposite effect intended"
+      },
+      {
+        "arabic": "يرتد لهيب أو صوت",
+        "definition": "an engine or firearm produces a reverse explosion"
+      }
+    ]
   },
   {
     "id": "exp0066",
@@ -4006,7 +6624,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يعطي انطباعًا خاطئًا",
+        "definition": "causing a mistaken belief"
+      }
+    ]
   },
   {
     "id": "exp0067",
@@ -4018,7 +6642,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "غامض أو غير محدد",
+        "definition": "lacking precision"
+      },
+      {
+        "arabic": "غير واضح الذاكرة",
+        "definition": "indistinct or hazy"
+      }
+    ]
   },
   {
     "id": "exp0068",
@@ -4030,7 +6664,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "فرق دقيق أو إيحاء",
+        "definition": "a delicate distinction"
+      },
+      {
+        "arabic": "براعة غير مباشرة",
+        "definition": "clever indirectness"
+      }
+    ]
   },
   {
     "id": "exp0069",
@@ -4042,7 +6686,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "صادق بلا تصنّع",
+        "definition": "genuinely felt"
+      }
+    ]
   },
   {
     "id": "exp0070",
@@ -4054,7 +6704,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Expressive",
-    "topic": "Music & Emotion"
+    "topic": "Music & Emotion",
+    "otherMeanings": [
+      {
+        "arabic": "يميل إلى التأمل الذاتي",
+        "definition": "examining one's own thoughts"
+      }
+    ]
   },
   {
     "id": "exp0071",
@@ -4066,7 +6722,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Idiomatic",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "قليل الشجاعة",
+        "definition": "easily discouraged or frightened"
+      }
+    ]
   },
   {
     "id": "exp0072",
@@ -4078,7 +6740,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يعزّز فكرة أو شعورًا",
+        "definition": "strengthen an idea"
+      },
+      {
+        "arabic": "يدعم شيئًا ماديًا",
+        "definition": "make a structure stronger"
+      }
+    ]
   },
   {
     "id": "exp0073",
@@ -4090,7 +6762,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يناقض قولًا آخر",
+        "definition": "say the opposite of"
+      },
+      {
+        "arabic": "يدحض ادعاءً",
+        "definition": "show a statement is false"
+      }
+    ]
   },
   {
     "id": "exp0074",
@@ -4102,7 +6784,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يعترف بحقيقة",
+        "definition": "admit a fact"
+      },
+      {
+        "arabic": "يقدّر مساهمة شخص",
+        "definition": "recognize someone's effort"
+      },
+      {
+        "arabic": "يؤكد استلام شيء",
+        "definition": "confirm receipt"
+      }
+    ]
   },
   {
     "id": "exp0075",
@@ -4114,7 +6810,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يتعامل مع مشكلة",
+        "definition": "take action on a problem"
+      },
+      {
+        "arabic": "يتناول قضية في حديث",
+        "definition": "discuss an issue"
+      }
+    ]
   },
   {
     "id": "exp0076",
@@ -4126,7 +6832,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يستخلص نتيجة",
+        "definition": "reach a judgment from evidence"
+      }
+    ]
   },
   {
     "id": "exp0077",
@@ -4138,7 +6850,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "ينشر الوعي",
+        "definition": "increase public understanding"
+      }
+    ]
   },
   {
     "id": "exp0078",
@@ -4150,7 +6868,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يقدّم رؤية عميقة",
+        "definition": "provide useful understanding"
+      }
+    ]
   },
   {
     "id": "exp0079",
@@ -4162,7 +6886,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يشكك في افتراض",
+        "definition": "question an accepted belief"
+      }
+    ]
   },
   {
     "id": "exp0080",
@@ -4174,7 +6904,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يترك أثرًا مؤثرًا",
+        "definition": "produce a meaningful effect"
+      }
+    ]
   },
   {
     "id": "expr0001",
@@ -4186,7 +6922,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "بليغ في الكلام",
+        "definition": "fluent and persuasive"
+      },
+      {
+        "arabic": "معبر دون كلمات",
+        "definition": "expressive without speech"
+      }
+    ]
   },
   {
     "id": "expr0002",
@@ -4198,7 +6944,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "ثبات أو اتزان",
+        "definition": "calm self-possession"
+      }
+    ]
   },
   {
     "id": "expr0003",
@@ -4210,7 +6962,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Communication"
+    "topic": "Communication",
+    "otherMeanings": [
+      {
+        "arabic": "صراحة وأمانة",
+        "definition": "honest openness"
+      }
+    ]
   },
   {
     "id": "expr0004",
@@ -4222,7 +6980,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "موجز وواضح",
+        "definition": "brief and well expressed"
+      }
+    ]
   },
   {
     "id": "expr0005",
@@ -4234,7 +6998,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "مترابط ككل",
+        "definition": "forming a unified whole"
+      }
+    ]
   },
   {
     "id": "expr0006",
@@ -4246,7 +7016,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Literary / Neutral",
-    "topic": "Expressive"
+    "topic": "Expressive",
+    "otherMeanings": [
+      {
+        "arabic": "يستحضر مشاعر أو صورًا",
+        "definition": "bringing images or memories to mind"
+      }
+    ]
   },
   {
     "id": "expr0007",
@@ -4258,7 +7034,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Expressive"
+    "topic": "Expressive",
+    "otherMeanings": [
+      {
+        "arabic": "غير مبالغ فيه",
+        "definition": "subtle or restrained"
+      },
+      {
+        "arabic": "مقلَّل من أهميته",
+        "definition": "described as less significant than it is"
+      }
+    ]
   },
   {
     "id": "expr0008",
@@ -4270,7 +7056,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يراعي الفروق الدقيقة",
+        "definition": "showing subtle distinctions"
+      }
+    ]
   },
   {
     "id": "expr0009",
@@ -4282,7 +7074,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Argumentation"
+    "topic": "Argumentation",
+    "otherMeanings": [
+      {
+        "arabic": "جدير بالتصديق",
+        "definition": "believable"
+      },
+      {
+        "arabic": "موثوق مهنيًا",
+        "definition": "trusted as reliable"
+      }
+    ]
   },
   {
     "id": "expr0010",
@@ -4294,7 +7096,21 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Argumentation"
+    "topic": "Argumentation",
+    "otherMeanings": [
+      {
+        "arabic": "يعترف بصحة نقطة",
+        "definition": "admit that something is true"
+      },
+      {
+        "arabic": "يتنازل عن أمر",
+        "definition": "give something up"
+      },
+      {
+        "arabic": "يقبل الهزيمة",
+        "definition": "accept defeat"
+      }
+    ]
   },
   {
     "id": "expr0011",
@@ -4306,7 +7122,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Argumentation"
+    "topic": "Argumentation",
+    "otherMeanings": [
+      {
+        "arabic": "يدحض حجة",
+        "definition": "argue against an assertion"
+      }
+    ]
   },
   {
     "id": "expr0012",
@@ -4318,7 +7140,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يضيف قيدًا أو استثناءً",
+        "definition": "limit or modify a broad claim"
+      }
+    ]
   },
   {
     "id": "expr0013",
@@ -4330,7 +7158,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يميّز بين أمرين",
+        "definition": "identify a meaningful difference"
+      }
+    ]
   },
   {
     "id": "expr0014",
@@ -4342,7 +7176,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يوصل المغزى",
+        "definition": "communicate the intended meaning"
+      }
+    ]
   },
   {
     "id": "expr0015",
@@ -4354,7 +7194,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Argumentation"
+    "topic": "Argumentation",
+    "otherMeanings": [
+      {
+        "arabic": "يدافع بالحجة عن فكرة",
+        "definition": "present arguments in favor"
+      }
+    ]
   },
   {
     "id": "expr0016",
@@ -4366,7 +7212,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يطوّر فكرة سابقة",
+        "definition": "develop further from an earlier point"
+      },
+      {
+        "arabic": "يشيّد فوق أساس",
+        "definition": "construct on top of something"
+      }
+    ]
   },
   {
     "id": "expr0017",
@@ -4378,7 +7234,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يشرح بتسلسل",
+        "definition": "guide step by step"
+      }
+    ]
   },
   {
     "id": "expr0018",
@@ -4390,7 +7252,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يلخّص",
+        "definition": "give a summary"
+      },
+      {
+        "arabic": "يقيّم شخصًا سريعًا",
+        "definition": "form a quick assessment of someone"
+      }
+    ]
   },
   {
     "id": "expr0019",
@@ -4402,7 +7274,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "بوجه عام",
+        "definition": "generally speaking"
+      }
+    ]
   },
   {
     "id": "expr0020",
@@ -4414,7 +7292,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Reflection"
+    "topic": "Reflection",
+    "otherMeanings": [
+      {
+        "arabic": "عند النظر إلى الوراء",
+        "definition": "judging past events with later knowledge"
+      }
+    ]
   },
   {
     "id": "expr0021",
@@ -4426,7 +7310,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Argumentation"
+    "topic": "Argumentation",
+    "otherMeanings": [
+      {
+        "arabic": "وبالمنطق نفسه",
+        "definition": "for the same reason"
+      }
+    ]
   },
   {
     "id": "expr0022",
@@ -4438,7 +7328,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "في جوهره",
+        "definition": "at the most fundamental level"
+      }
+    ]
   },
   {
     "id": "expr0023",
@@ -4450,7 +7346,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Informal",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "باختصار",
+        "definition": "in very few words"
+      }
+    ]
   },
   {
     "id": "expr0024",
@@ -4462,7 +7364,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Expressive",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "شعور لا يزول سريعًا",
+        "definition": "a feeling that remains"
+      }
+    ]
   },
   {
     "id": "expr0025",
@@ -4474,7 +7382,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "سعيد جدًا",
+        "definition": "extremely happy"
+      }
+    ]
   },
   {
     "id": "expr0026",
@@ -4486,7 +7400,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "فاقد الحماس بعد خيبة",
+        "definition": "discouraged"
+      }
+    ]
   },
   {
     "id": "expr0027",
@@ -4498,7 +7418,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Expressive"
+    "topic": "Expressive",
+    "otherMeanings": [
+      {
+        "arabic": "صادق ونابع من القلب",
+        "definition": "deeply sincere"
+      }
+    ]
   },
   {
     "id": "expr0028",
@@ -4510,7 +7436,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Literary",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "تنفيس عاطفي",
+        "definition": "emotional release"
+      }
+    ]
   },
   {
     "id": "expr0029",
@@ -4522,7 +7454,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "مرّ المذاق",
+        "definition": "sharp unpleasant taste"
+      },
+      {
+        "arabic": "حاقد أو ممتلئ بالمرارة",
+        "definition": "resentful"
+      },
+      {
+        "arabic": "شديد أو قارس",
+        "definition": "extremely cold or harsh"
+      }
+    ]
   },
   {
     "id": "expr0030",
@@ -4534,7 +7480,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Expressive"
+    "topic": "Expressive",
+    "otherMeanings": [
+      {
+        "arabic": "جاد ومهيب",
+        "definition": "serious or formal"
+      },
+      {
+        "arabic": "حزين بوقار",
+        "definition": "gravely sad"
+      }
+    ]
   },
   {
     "id": "expr0031",
@@ -4546,7 +7502,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "يشعر بحنين إلى الماضي",
+        "definition": "longing affectionately for the past"
+      }
+    ]
   },
   {
     "id": "expr0032",
@@ -4558,7 +7520,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Reflection"
+    "topic": "Reflection",
+    "otherMeanings": [
+      {
+        "arabic": "يسترجع ذكريات",
+        "definition": "talk or think about past experiences"
+      }
+    ]
   },
   {
     "id": "expr0033",
@@ -4570,7 +7538,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Reflection"
+    "topic": "Reflection",
+    "otherMeanings": [
+      {
+        "arabic": "يتعامل مع واقع صعب",
+        "definition": "accept and understand a difficult situation"
+      }
+    ]
   },
   {
     "id": "expr0034",
@@ -4582,7 +7556,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "يستوعب الخبر تدريجيًا",
+        "definition": "allow something to be fully understood"
+      }
+    ]
   },
   {
     "id": "expr0035",
@@ -4594,7 +7574,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "يلمس نقطة حساسة",
+        "definition": "say something that causes an emotional reaction"
+      }
+    ]
   },
   {
     "id": "expr0036",
@@ -4606,7 +7592,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Informal",
-    "topic": "Everyday"
+    "topic": "Everyday",
+    "otherMeanings": [
+      {
+        "arabic": "يستفز شخصًا بطريقته",
+        "definition": "irritate someone unintentionally"
+      }
+    ]
   },
   {
     "id": "expr0037",
@@ -4618,7 +7610,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Emotions"
+    "topic": "Emotions",
+    "otherMeanings": [
+      {
+        "arabic": "يتأثر بملاحظة أو نقد",
+        "definition": "take criticism very personally"
+      },
+      {
+        "arabic": "يأخذ نصيحة بجدية",
+        "definition": "seriously consider advice"
+      }
+    ]
   },
   {
     "id": "expr0038",
@@ -4630,7 +7632,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Communication"
+    "topic": "Communication",
+    "otherMeanings": [
+      {
+        "arabic": "يقول رأيه بصراحة",
+        "definition": "express views openly"
+      }
+    ]
   },
   {
     "id": "expr0039",
@@ -4642,7 +7650,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Communication"
+    "topic": "Communication",
+    "otherMeanings": [
+      {
+        "arabic": "يعطي انطباعًا بأنه",
+        "definition": "appear to others in a certain way"
+      }
+    ]
   },
   {
     "id": "expr0040",
@@ -4654,7 +7668,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Communication"
+    "topic": "Communication",
+    "otherMeanings": [
+      {
+        "arabic": "يهوّن من أهمية أمر",
+        "definition": "make something seem less serious"
+      }
+    ]
   },
   {
     "id": "expr0041",
@@ -4666,7 +7686,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Informal",
-    "topic": "Communication"
+    "topic": "Communication",
+    "otherMeanings": [
+      {
+        "arabic": "يعترف بمسؤوليته عن خطأ",
+        "definition": "admit wrongdoing"
+      }
+    ]
   },
   {
     "id": "expr0042",
@@ -4678,7 +7704,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Communication"
+    "topic": "Communication",
+    "otherMeanings": [
+      {
+        "arabic": "يتمسك بموقفه",
+        "definition": "refuse to retreat from a position"
+      }
+    ]
   },
   {
     "id": "expr0043",
@@ -4690,7 +7722,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Argumentation"
+    "topic": "Argumentation",
+    "otherMeanings": [
+      {
+        "arabic": "إن كان هناك اختلاف فعلى العكس",
+        "definition": "used to introduce a contrary point"
+      },
+      {
+        "arabic": "على الأكثر أو إن حصل شيء",
+        "definition": "if something happens at all"
+      }
+    ]
   },
   {
     "id": "expr0044",
@@ -4702,7 +7744,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Expressive"
+    "topic": "Expressive",
+    "otherMeanings": [
+      {
+        "arabic": "وهذا أقل ما يقال",
+        "definition": "understate a stronger opinion"
+      }
+    ]
   },
   {
     "id": "expr0045",
@@ -4714,7 +7762,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Everyday"
+    "topic": "Everyday",
+    "otherMeanings": [
+      {
+        "arabic": "يستحق الوقت والجهد",
+        "definition": "valuable enough to justify effort"
+      }
+    ]
   },
   {
     "id": "expr0046",
@@ -4726,7 +7780,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يثير التفكير العميق",
+        "definition": "encouraging serious reflection"
+      }
+    ]
   },
   {
     "id": "expr0047",
@@ -4738,7 +7798,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Conversational",
-    "topic": "Argumentation"
+    "topic": "Argumentation",
+    "otherMeanings": [
+      {
+        "arabic": "غير معقول أو بعيد الاحتمال",
+        "definition": "implausible"
+      }
+    ]
   },
   {
     "id": "expr0048",
@@ -4750,7 +7816,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Argumentation"
+    "topic": "Argumentation",
+    "otherMeanings": [
+      {
+        "arabic": "يخالف التوقع المعتاد",
+        "definition": "contrary to intuition"
+      }
+    ]
   },
   {
     "id": "expr0049",
@@ -4762,7 +7834,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "فكرة خاطئة شائعة",
+        "definition": "incorrect belief"
+      }
+    ]
   },
   {
     "id": "expr0050",
@@ -4774,7 +7852,21 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "خلاصة مستفادة",
+        "definition": "main lesson or conclusion"
+      },
+      {
+        "arabic": "طعام سفري",
+        "definition": "food bought to eat elsewhere"
+      },
+      {
+        "arabic": "عملية طرح",
+        "definition": "subtraction in basic arithmetic"
+      }
+    ]
   },
   {
     "id": "expr0051",
@@ -4786,7 +7878,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "دون قصد",
+        "definition": "unintentionally"
+      }
+    ]
   },
   {
     "id": "expr0052",
@@ -4798,7 +7896,17 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "عن عمد",
+        "definition": "intentionally"
+      },
+      {
+        "arabic": "ببطء وتروٍّ",
+        "definition": "slowly and carefully"
+      }
+    ]
   },
   {
     "id": "expr0053",
@@ -4810,7 +7918,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Formal",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "بسلاسة دون فواصل ظاهرة",
+        "definition": "smoothly without interruption"
+      }
+    ]
   },
   {
     "id": "expr0054",
@@ -4822,7 +7936,17 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "محوري وحاسم",
+        "definition": "critically important"
+      },
+      {
+        "arabic": "متعلق بمحور الحركة",
+        "definition": "involving a pivot"
+      }
+    ]
   },
   {
     "id": "expr0055",
@@ -4834,7 +7958,13 @@
     "level": "C1",
     "source": "builtin",
     "register": "Formal / Neutral",
-    "topic": "Writing & Presentation"
+    "topic": "Writing & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "ينقل إحساسًا معينًا",
+        "definition": "communicate a mood or feeling"
+      }
+    ]
   },
   {
     "id": "expr0056",
@@ -4846,7 +7976,13 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral",
-    "topic": "Speaking & Presentation"
+    "topic": "Speaking & Presentation",
+    "otherMeanings": [
+      {
+        "arabic": "يوفّق بين أمرين",
+        "definition": "find a fair compromise"
+      }
+    ]
   },
   {
     "id": "expr0057",
@@ -4858,6 +7994,12 @@
     "level": "B2+",
     "source": "builtin",
     "register": "Neutral / Literary",
-    "topic": "Expressive"
+    "topic": "Expressive",
+    "otherMeanings": [
+      {
+        "arabic": "يترك شيئًا دون تصريح",
+        "definition": "choose not to state something"
+      }
+    ]
   }
 ]
