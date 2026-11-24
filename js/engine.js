@@ -17,3 +17,16 @@ export function scoreFor(wordId,session){const related=(session.answers||[]).fil
 const INTERVALS=[1,3,7,14,30,60];
 export function updateProgress(prev,day,score,mode){const p={id:prev?.id||'',stage:prev?.stage||0,weak:prev?.weak||false,totalCorrect:prev?.totalCorrect||0,totalWrong:prev?.totalWrong||0,mistakes:prev?.mistakes||0,lastSeen:day,dueDate:shiftDate(day,1),history:[...(prev?.history||[])]};p.totalCorrect+=score.correct;p.totalWrong+=score.mistakes;p.mistakes+=score.mistakes;const weak=score.mistakes>=2||((mode==='learn')&&prev?.weak&&score.mistakes>0);if(weak){p.weak=true;p.stage=0;p.dueDate=shiftDate(day,1);}else if(score.mistakes===0&&score.total>=2){p.stage=Math.min(p.stage+1,INTERVALS.length-1);p.weak=false;p.dueDate=shiftDate(day,INTERVALS[p.stage]);}else{p.dueDate=shiftDate(day,1);if(prev?.weak)p.weak=true;}p.history=p.history.slice(-59);p.history.push({day,mode,correct:score.correct,wrong:score.mistakes});return p;}
 export function consecutiveDays(days,today=dateKey()){const done=new Set(days.filter(d=>d.completed).map(d=>d.id));let cursor=done.has(today)?today:shiftDate(today,-1),count=0;while(done.has(cursor)){count++;cursor=shiftDate(cursor,-1);}return count;}
+
+// One question per previously learned word, with a shuffled selection of enabled formats.
+// A session never repeats a word, and does not touch SRS progress.
+export function makeQuickReviewQuestions(wordIds,words,enabled=['choice','typing','blank','listening']){
+ const byId=new Map(words.map(w=>[w.id,w]));
+ const permitted=[...new Set(enabled)].filter(t=>['choice','typing','blank','listening'].includes(t));
+ const styles=shuffle(permitted.length?permitted:['choice']);
+ return [...new Set(wordIds)].flatMap((id,i)=>{
+  const word=byId.get(id);if(!word)return [];
+  const type=styles[i%styles.length];
+  return [{id:`quick-${id}-${i}` ,wordId:id,...questionFor(word,words,type)}];
+ });
+}
