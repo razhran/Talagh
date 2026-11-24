@@ -111,3 +111,18 @@ body{background:var(--bg)}
 .dictionary-senses-preview .dictionary-sense p{font-size:10px}
 .dictionary-more{font-size:10px;color:var(--native-primary)}
 @media(max-width:380px){.study-feature .replace-word-btn{font-size:10px;padding:8px}.study-card-controls{gap:5px}}
+
+/* v11: optional Quick Review - uses existing theme tokens and quiz UI */
+.quick-review-home,.quick-review-callout{display:flex;align-items:center;gap:12px;background:var(--panel);border:1px solid var(--border);border-radius:20px;padding:15px;margin:15px 0}
+.quick-review-home>div,.quick-review-callout>div:nth-child(2){flex:1;min-width:0}.quick-review-home strong,.quick-review-callout strong{display:block;font-size:13px;color:var(--text)}
+.quick-review-home small,.quick-review-callout small{display:block;font-size:10px;line-height:1.6;color:var(--muted);margin-top:4px}
+.quick-review-mark,.quick-review-large-icon{background:var(--native-soft);color:var(--native-primary);display:grid;place-items:center;flex-shrink:0}
+.quick-review-mark{width:40px;height:40px;border-radius:13px;font-size:19px}.quick-review-home .btn,.quick-review-callout .btn{white-space:nowrap;font-size:11px;padding:10px 12px}
+.quick-review-callout{margin-bottom:18px;padding:19px}.quick-review-callout p{font-size:11px;line-height:1.7;color:var(--muted);margin:5px 0}
+.quick-review-screen{max-width:540px;margin:0 auto;padding:3px 0 28px}.quick-review-back{margin:0 0 10px}.quick-review-hero{background:var(--panel);border:1px solid var(--border);border-radius:26px;padding:27px 22px;text-align:center}
+.quick-review-large-icon{width:70px;height:70px;border-radius:23px;font-size:30px;margin:0 auto 16px}.quick-review-hero h1{font-size:30px;letter-spacing:-.9px;margin:9px 0}.quick-review-hero p{font-size:12px;line-height:1.8;color:var(--muted);margin:0 auto 12px;max-width:350px}
+.quick-review-count{font-size:27px;font-weight:800;color:var(--native-primary);margin-top:13px}.quick-review-count small{font-size:11px;font-weight:500;color:var(--muted)}
+.quick-review-options{border-radius:22px!important;margin-top:14px;padding:20px!important}.quick-review-options h2,.quick-review-misses h2{font-size:17px;margin:0 0 5px}.quick-review-options p{font-size:11px;color:var(--muted);line-height:1.6;margin:0}
+.quick-review-sizes{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin:20px 0}.quick-review-size{border:1px solid var(--border);background:var(--panel-2);color:var(--text);border-radius:14px;padding:13px 5px;display:flex;align-items:center;flex-direction:column;gap:5px;font-size:19px;font-weight:800;cursor:pointer}.quick-review-size small{font-size:10px;font-weight:600;color:var(--muted)}.quick-review-size.selected{border-color:var(--native-primary);background:var(--native-soft);color:var(--native-primary)}.quick-review-size:disabled{opacity:.45}.quick-review-start{width:100%;min-height:48px;justify-content:center}.quick-review-footnote{display:block;color:var(--muted);font-size:10px;text-align:center;line-height:1.7;margin:13px 0 2px}
+.quick-review-score{font-size:54px;line-height:1.3;font-weight:850;color:var(--native-primary)}.quick-review-score span{font-size:22px;color:var(--muted)}.quick-review-misses{margin-top:14px;padding:20px!important}.quick-review-misses .daily-row{display:flex;justify-content:space-between;gap:12px}.quick-review-misses .daily-row small{color:var(--muted)}.quick-review-result-actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:16px}.quick-review-result-actions .btn{flex:1;justify-content:center}
+@media(max-width:390px){.quick-review-home{gap:8px;padding:12px}.quick-review-home .btn{padding:8px}.quick-review-callout{flex-wrap:wrap}.quick-review-callout>.btn{width:100%;justify-content:center}}
